@@ -1,0 +1,2176 @@
+intent,sentence1,sentence2,label
+Set a Timer,Set a timer for 10 minutes.,Start a 10-minute countdown.,1
+Set a Timer,Set a timer for 10 minutes.,Please time 10 minutes for me.,1
+Set a Timer,Set a timer for 10 minutes.,Create a 10-minute timer.,0
+Set a Timer,Set a timer for 10 minutes.,Begin a countdown for 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,Can you activate a timer for 10 minutes?,0
+Set a Timer,Set a timer for 10 minutes.,Start a stopwatch for 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,Set a countdown for 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,I need a timer for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Count down from 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,Remind me in 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Can you time me for 10 minutes?,0
+Set a Timer,Set a timer for 10 minutes.,Turn on a timer for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Start a countdown clock for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Give me an alert after 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,I want a timer set for 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,Put on a countdown for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Can you start a 10-minute stopwatch?,0
+Set a Timer,Set a timer for 10 minutes.,Start the timer and stop after 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Set a timer for 10 minutes.,Set an alarm for 10 minutes from now.,0
+Set a Timer,Set a timer for 10 minutes.,Run a stopwatch for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Set a timer for 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Set a timer for 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Set a timer for 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Set a timer for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Start a 10-minute countdown.,Please time 10 minutes for me.,1
+Set a Timer,Start a 10-minute countdown.,Create a 10-minute timer.,0
+Set a Timer,Start a 10-minute countdown.,Begin a countdown for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Can you activate a timer for 10 minutes?,0
+Set a Timer,Start a 10-minute countdown.,Start a stopwatch for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Set a countdown for 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,I need a timer for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Count down from 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Remind me in 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Can you time me for 10 minutes?,0
+Set a Timer,Start a 10-minute countdown.,Turn on a timer for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Start a countdown clock for 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Give me an alert after 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,I want a timer set for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Put on a countdown for 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Can you start a 10-minute stopwatch?,0
+Set a Timer,Start a 10-minute countdown.,Start the timer and stop after 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Track time for 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Set an alarm for 10 minutes from now.,0
+Set a Timer,Start a 10-minute countdown.,Run a stopwatch for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Begin a 10-minute alert.,1
+Set a Timer,Start a 10-minute countdown.,I need a reminder in 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Keep track of 10 minutes for me.,0
+Set a Timer,Start a 10-minute countdown.,Help me count down 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Start a 10-minute countdown.,Let me know when 10 minutes have passed.,1
+Set a Timer,Start a 10-minute countdown.,Enable a timer for 10 minutes.,1
+Set a Timer,Start a 10-minute countdown.,Countdown 10 minutes for me.,0
+Set a Timer,Please time 10 minutes for me.,Create a 10-minute timer.,0
+Set a Timer,Please time 10 minutes for me.,Begin a countdown for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Can you activate a timer for 10 minutes?,0
+Set a Timer,Please time 10 minutes for me.,Start a stopwatch for 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,Set a countdown for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,I need a timer for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Count down from 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Remind me in 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Can you time me for 10 minutes?,0
+Set a Timer,Please time 10 minutes for me.,Turn on a timer for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Start a countdown clock for 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,Give me an alert after 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,I want a timer set for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Put on a countdown for 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Please time 10 minutes for me.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,Track time for 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Please time 10 minutes for me.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Please time 10 minutes for me.,Begin a 10-minute alert.,0
+Set a Timer,Please time 10 minutes for me.,I need a reminder in 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Keep track of 10 minutes for me.,1
+Set a Timer,Please time 10 minutes for me.,Help me count down 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Let me know when 10 minutes have passed.,0
+Set a Timer,Please time 10 minutes for me.,Enable a timer for 10 minutes.,1
+Set a Timer,Please time 10 minutes for me.,Countdown 10 minutes for me.,1
+Set a Timer,Create a 10-minute timer.,Begin a countdown for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Can you activate a timer for 10 minutes?,0
+Set a Timer,Create a 10-minute timer.,Start a stopwatch for 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,Set a countdown for 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,I need a timer for 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,Count down from 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,Remind me in 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Can you time me for 10 minutes?,0
+Set a Timer,Create a 10-minute timer.,Turn on a timer for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Start a countdown clock for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Give me an alert after 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,I want a timer set for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Put on a countdown for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Can you start a 10-minute stopwatch?,0
+Set a Timer,Create a 10-minute timer.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Track time for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Create a 10-minute timer.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Begin a 10-minute alert.,1
+Set a Timer,Create a 10-minute timer.,I need a reminder in 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,Keep track of 10 minutes for me.,0
+Set a Timer,Create a 10-minute timer.,Help me count down 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Create a 10-minute timer.,Let me know when 10 minutes have passed.,1
+Set a Timer,Create a 10-minute timer.,Enable a timer for 10 minutes.,0
+Set a Timer,Create a 10-minute timer.,Countdown 10 minutes for me.,1
+Set a Timer,Begin a countdown for 10 minutes.,Can you activate a timer for 10 minutes?,0
+Set a Timer,Begin a countdown for 10 minutes.,Start a stopwatch for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Set a countdown for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,I need a timer for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Count down from 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Remind me in 10 minutes.,1
+Set a Timer,Begin a countdown for 10 minutes.,Can you time me for 10 minutes?,1
+Set a Timer,Begin a countdown for 10 minutes.,Turn on a timer for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Start a countdown clock for 10 minutes.,1
+Set a Timer,Begin a countdown for 10 minutes.,Give me an alert after 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,I want a timer set for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Put on a countdown for 10 minutes.,1
+Set a Timer,Begin a countdown for 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Begin a countdown for 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Begin a countdown for 10 minutes.,Run a stopwatch for 10 minutes.,1
+Set a Timer,Begin a countdown for 10 minutes.,Begin a 10-minute alert.,0
+Set a Timer,Begin a countdown for 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Begin a countdown for 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Begin a countdown for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Begin a countdown for 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Begin a countdown for 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Begin a countdown for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Can you activate a timer for 10 minutes?,Start a stopwatch for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Set a countdown for 10 minutes.,1
+Set a Timer,Can you activate a timer for 10 minutes?,I need a timer for 10 minutes.,1
+Set a Timer,Can you activate a timer for 10 minutes?,Count down from 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Remind me in 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Can you time me for 10 minutes?,1
+Set a Timer,Can you activate a timer for 10 minutes?,Turn on a timer for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Start a countdown clock for 10 minutes.,1
+Set a Timer,Can you activate a timer for 10 minutes?,Give me an alert after 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,I want a timer set for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Put on a countdown for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Can you start a 10-minute stopwatch?,0
+Set a Timer,Can you activate a timer for 10 minutes?,Start the timer and stop after 10 minutes.,1
+Set a Timer,Can you activate a timer for 10 minutes?,Track time for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Set an alarm for 10 minutes from now.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Run a stopwatch for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Begin a 10-minute alert.,0
+Set a Timer,Can you activate a timer for 10 minutes?,I need a reminder in 10 minutes.,1
+Set a Timer,Can you activate a timer for 10 minutes?,Keep track of 10 minutes for me.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Help me count down 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Start a timer exactly for 10 minutes.,1
+Set a Timer,Can you activate a timer for 10 minutes?,Let me know when 10 minutes have passed.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Enable a timer for 10 minutes.,0
+Set a Timer,Can you activate a timer for 10 minutes?,Countdown 10 minutes for me.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Set a countdown for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,I need a timer for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Count down from 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Remind me in 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Can you time me for 10 minutes?,1
+Set a Timer,Start a stopwatch for 10 minutes.,Turn on a timer for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Start a countdown clock for 10 minutes.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Give me an alert after 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,I want a timer set for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Put on a countdown for 10 minutes.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Start a stopwatch for 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Track time for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Set an alarm for 10 minutes from now.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Begin a 10-minute alert.,0
+Set a Timer,Start a stopwatch for 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Start a stopwatch for 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Start a stopwatch for 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Set a countdown for 10 minutes.,I need a timer for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Count down from 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Remind me in 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Can you time me for 10 minutes?,1
+Set a Timer,Set a countdown for 10 minutes.,Turn on a timer for 10 minutes.,0
+Set a Timer,Set a countdown for 10 minutes.,Start a countdown clock for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Give me an alert after 10 minutes.,0
+Set a Timer,Set a countdown for 10 minutes.,I want a timer set for 10 minutes.,0
+Set a Timer,Set a countdown for 10 minutes.,Put on a countdown for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Set a countdown for 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Set a countdown for 10 minutes.,Track time for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Set a countdown for 10 minutes.,Run a stopwatch for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Begin a 10-minute alert.,0
+Set a Timer,Set a countdown for 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,Set a countdown for 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,Set a countdown for 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Set a countdown for 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Set a countdown for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,I need a timer for 10 minutes.,Count down from 10 minutes.,0
+Set a Timer,I need a timer for 10 minutes.,Remind me in 10 minutes.,0
+Set a Timer,I need a timer for 10 minutes.,Can you time me for 10 minutes?,0
+Set a Timer,I need a timer for 10 minutes.,Turn on a timer for 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Start a countdown clock for 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Give me an alert after 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,I want a timer set for 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Put on a countdown for 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,I need a timer for 10 minutes.,Start the timer and stop after 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,I need a timer for 10 minutes.,Set an alarm for 10 minutes from now.,0
+Set a Timer,I need a timer for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,I need a timer for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,I need a timer for 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,I need a timer for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,I need a timer for 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,I need a timer for 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,I need a timer for 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,I need a timer for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Count down from 10 minutes.,Remind me in 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Can you time me for 10 minutes?,1
+Set a Timer,Count down from 10 minutes.,Turn on a timer for 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Start a countdown clock for 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Give me an alert after 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,I want a timer set for 10 minutes.,1
+Set a Timer,Count down from 10 minutes.,Put on a countdown for 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Count down from 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Count down from 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Count down from 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Count down from 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Count down from 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,Count down from 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Count down from 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Count down from 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Count down from 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Count down from 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Remind me in 10 minutes.,Can you time me for 10 minutes?,0
+Set a Timer,Remind me in 10 minutes.,Turn on a timer for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Start a countdown clock for 10 minutes.,1
+Set a Timer,Remind me in 10 minutes.,Give me an alert after 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,I want a timer set for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Put on a countdown for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Remind me in 10 minutes.,Start the timer and stop after 10 minutes.,1
+Set a Timer,Remind me in 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Remind me in 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Remind me in 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Remind me in 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,Remind me in 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Remind me in 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Remind me in 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Can you time me for 10 minutes?,Turn on a timer for 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Start a countdown clock for 10 minutes.,0
+Set a Timer,Can you time me for 10 minutes?,Give me an alert after 10 minutes.,0
+Set a Timer,Can you time me for 10 minutes?,I want a timer set for 10 minutes.,0
+Set a Timer,Can you time me for 10 minutes?,Put on a countdown for 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Can you start a 10-minute stopwatch?,0
+Set a Timer,Can you time me for 10 minutes?,Start the timer and stop after 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Track time for 10 minutes.,0
+Set a Timer,Can you time me for 10 minutes?,Set an alarm for 10 minutes from now.,0
+Set a Timer,Can you time me for 10 minutes?,Run a stopwatch for 10 minutes.,0
+Set a Timer,Can you time me for 10 minutes?,Begin a 10-minute alert.,0
+Set a Timer,Can you time me for 10 minutes?,I need a reminder in 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Keep track of 10 minutes for me.,1
+Set a Timer,Can you time me for 10 minutes?,Help me count down 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Start a timer exactly for 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Let me know when 10 minutes have passed.,1
+Set a Timer,Can you time me for 10 minutes?,Enable a timer for 10 minutes.,1
+Set a Timer,Can you time me for 10 minutes?,Countdown 10 minutes for me.,1
+Set a Timer,Turn on a timer for 10 minutes.,Start a countdown clock for 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Give me an alert after 10 minutes.,0
+Set a Timer,Turn on a timer for 10 minutes.,I want a timer set for 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Put on a countdown for 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Can you start a 10-minute stopwatch?,0
+Set a Timer,Turn on a timer for 10 minutes.,Start the timer and stop after 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Turn on a timer for 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Turn on a timer for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Turn on a timer for 10 minutes.,Begin a 10-minute alert.,0
+Set a Timer,Turn on a timer for 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Turn on a timer for 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,Turn on a timer for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Turn on a timer for 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Turn on a timer for 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Give me an alert after 10 minutes.,1
+Set a Timer,Start a countdown clock for 10 minutes.,I want a timer set for 10 minutes.,1
+Set a Timer,Start a countdown clock for 10 minutes.,Put on a countdown for 10 minutes.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Can you start a 10-minute stopwatch?,0
+Set a Timer,Start a countdown clock for 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Track time for 10 minutes.,1
+Set a Timer,Start a countdown clock for 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Start a countdown clock for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Start a countdown clock for 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Start a countdown clock for 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,Start a countdown clock for 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Start a countdown clock for 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Start a countdown clock for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Give me an alert after 10 minutes.,I want a timer set for 10 minutes.,0
+Set a Timer,Give me an alert after 10 minutes.,Put on a countdown for 10 minutes.,1
+Set a Timer,Give me an alert after 10 minutes.,Can you start a 10-minute stopwatch?,1
+Set a Timer,Give me an alert after 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,Give me an alert after 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Give me an alert after 10 minutes.,Set an alarm for 10 minutes from now.,0
+Set a Timer,Give me an alert after 10 minutes.,Run a stopwatch for 10 minutes.,1
+Set a Timer,Give me an alert after 10 minutes.,Begin a 10-minute alert.,0
+Set a Timer,Give me an alert after 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Give me an alert after 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Give me an alert after 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Give me an alert after 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Give me an alert after 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Give me an alert after 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Give me an alert after 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,I want a timer set for 10 minutes.,Put on a countdown for 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Can you start a 10-minute stopwatch?,0
+Set a Timer,I want a timer set for 10 minutes.,Start the timer and stop after 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,I want a timer set for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,I want a timer set for 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,I want a timer set for 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Start a timer exactly for 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,I want a timer set for 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,I want a timer set for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Put on a countdown for 10 minutes.,Can you start a 10-minute stopwatch?,0
+Set a Timer,Put on a countdown for 10 minutes.,Start the timer and stop after 10 minutes.,1
+Set a Timer,Put on a countdown for 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Put on a countdown for 10 minutes.,Set an alarm for 10 minutes from now.,0
+Set a Timer,Put on a countdown for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Put on a countdown for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Put on a countdown for 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,Put on a countdown for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Put on a countdown for 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Put on a countdown for 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Put on a countdown for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Put on a countdown for 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Put on a countdown for 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Start the timer and stop after 10 minutes.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Track time for 10 minutes.,1
+Set a Timer,Can you start a 10-minute stopwatch?,Set an alarm for 10 minutes from now.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Run a stopwatch for 10 minutes.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Begin a 10-minute alert.,1
+Set a Timer,Can you start a 10-minute stopwatch?,I need a reminder in 10 minutes.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Keep track of 10 minutes for me.,1
+Set a Timer,Can you start a 10-minute stopwatch?,Help me count down 10 minutes.,1
+Set a Timer,Can you start a 10-minute stopwatch?,Start a timer exactly for 10 minutes.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Let me know when 10 minutes have passed.,0
+Set a Timer,Can you start a 10-minute stopwatch?,Enable a timer for 10 minutes.,1
+Set a Timer,Can you start a 10-minute stopwatch?,Countdown 10 minutes for me.,1
+Set a Timer,Start the timer and stop after 10 minutes.,Track time for 10 minutes.,0
+Set a Timer,Start the timer and stop after 10 minutes.,Set an alarm for 10 minutes from now.,1
+Set a Timer,Start the timer and stop after 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Start the timer and stop after 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Start the timer and stop after 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,Start the timer and stop after 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Start the timer and stop after 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,Start the timer and stop after 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Start the timer and stop after 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,Start the timer and stop after 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Start the timer and stop after 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Track time for 10 minutes.,Set an alarm for 10 minutes from now.,0
+Set a Timer,Track time for 10 minutes.,Run a stopwatch for 10 minutes.,0
+Set a Timer,Track time for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Track time for 10 minutes.,I need a reminder in 10 minutes.,0
+Set a Timer,Track time for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Track time for 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,Track time for 10 minutes.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Track time for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Track time for 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Track time for 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Set an alarm for 10 minutes from now.,Run a stopwatch for 10 minutes.,1
+Set a Timer,Set an alarm for 10 minutes from now.,Begin a 10-minute alert.,1
+Set a Timer,Set an alarm for 10 minutes from now.,I need a reminder in 10 minutes.,0
+Set a Timer,Set an alarm for 10 minutes from now.,Keep track of 10 minutes for me.,1
+Set a Timer,Set an alarm for 10 minutes from now.,Help me count down 10 minutes.,1
+Set a Timer,Set an alarm for 10 minutes from now.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Set an alarm for 10 minutes from now.,Let me know when 10 minutes have passed.,0
+Set a Timer,Set an alarm for 10 minutes from now.,Enable a timer for 10 minutes.,1
+Set a Timer,Set an alarm for 10 minutes from now.,Countdown 10 minutes for me.,0
+Set a Timer,Run a stopwatch for 10 minutes.,Begin a 10-minute alert.,1
+Set a Timer,Run a stopwatch for 10 minutes.,I need a reminder in 10 minutes.,1
+Set a Timer,Run a stopwatch for 10 minutes.,Keep track of 10 minutes for me.,0
+Set a Timer,Run a stopwatch for 10 minutes.,Help me count down 10 minutes.,0
+Set a Timer,Run a stopwatch for 10 minutes.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Run a stopwatch for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Run a stopwatch for 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Run a stopwatch for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Begin a 10-minute alert.,I need a reminder in 10 minutes.,1
+Set a Timer,Begin a 10-minute alert.,Keep track of 10 minutes for me.,1
+Set a Timer,Begin a 10-minute alert.,Help me count down 10 minutes.,0
+Set a Timer,Begin a 10-minute alert.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Begin a 10-minute alert.,Let me know when 10 minutes have passed.,1
+Set a Timer,Begin a 10-minute alert.,Enable a timer for 10 minutes.,0
+Set a Timer,Begin a 10-minute alert.,Countdown 10 minutes for me.,1
+Set a Timer,I need a reminder in 10 minutes.,Keep track of 10 minutes for me.,1
+Set a Timer,I need a reminder in 10 minutes.,Help me count down 10 minutes.,1
+Set a Timer,I need a reminder in 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,I need a reminder in 10 minutes.,Let me know when 10 minutes have passed.,1
+Set a Timer,I need a reminder in 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,I need a reminder in 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Keep track of 10 minutes for me.,Help me count down 10 minutes.,0
+Set a Timer,Keep track of 10 minutes for me.,Start a timer exactly for 10 minutes.,0
+Set a Timer,Keep track of 10 minutes for me.,Let me know when 10 minutes have passed.,1
+Set a Timer,Keep track of 10 minutes for me.,Enable a timer for 10 minutes.,0
+Set a Timer,Keep track of 10 minutes for me.,Countdown 10 minutes for me.,0
+Set a Timer,Help me count down 10 minutes.,Start a timer exactly for 10 minutes.,1
+Set a Timer,Help me count down 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Help me count down 10 minutes.,Enable a timer for 10 minutes.,0
+Set a Timer,Help me count down 10 minutes.,Countdown 10 minutes for me.,0
+Set a Timer,Start a timer exactly for 10 minutes.,Let me know when 10 minutes have passed.,0
+Set a Timer,Start a timer exactly for 10 minutes.,Enable a timer for 10 minutes.,1
+Set a Timer,Start a timer exactly for 10 minutes.,Countdown 10 minutes for me.,1
+Set a Timer,Let me know when 10 minutes have passed.,Enable a timer for 10 minutes.,1
+Set a Timer,Let me know when 10 minutes have passed.,Countdown 10 minutes for me.,0
+Set a Timer,Enable a timer for 10 minutes.,Countdown 10 minutes for me.,1
+Play Music,Play some music.,Start my favorite playlist.,0
+Play Music,Play some music.,Turn on some songs.,1
+Play Music,Play some music.,Can you play my top hits?,1
+Play Music,Play some music.,Put on some background music.,0
+Play Music,Play some music.,Play a song for me.,1
+Play Music,Play some music.,Play my most recent playlist.,1
+Play Music,Play some music.,Turn on the radio.,0
+Play Music,Play some music.,Start my saved songs.,1
+Play Music,Play some music.,Let's listen to music.,0
+Play Music,Play some music.,Play something relaxing.,1
+Play Music,Play some music.,Play upbeat tracks.,1
+Play Music,Play some music.,Can you start the music?,1
+Play Music,Play some music.,Put on a song.,0
+Play Music,Play some music.,Play my last listened-to music.,0
+Play Music,Play some music.,Shuffle my favorite songs.,0
+Play Music,Play some music.,Turn on my music list.,1
+Play Music,Play some music.,Queue my best songs.,1
+Play Music,Play some music.,Start playing jazz music.,0
+Play Music,Play some music.,Play classical music.,1
+Play Music,Play some music.,Turn on some tunes.,1
+Play Music,Play some music.,Begin my party playlist.,1
+Play Music,Play some music.,I want to hear some music.,1
+Play Music,Play some music.,Play an instrumental song.,0
+Play Music,Play some music.,Put on some relaxing sounds.,1
+Play Music,Play some music.,Start the music player.,0
+Play Music,Play some music.,Turn on Spotify and play songs.,1
+Play Music,Play some music.,Resume my last played track.,1
+Play Music,Play some music.,Play some rock music.,0
+Play Music,Play some music.,Shuffle and play my playlist.,0
+Play Music,Start my favorite playlist.,Turn on some songs.,0
+Play Music,Start my favorite playlist.,Can you play my top hits?,0
+Play Music,Start my favorite playlist.,Put on some background music.,0
+Play Music,Start my favorite playlist.,Play a song for me.,1
+Play Music,Start my favorite playlist.,Play my most recent playlist.,0
+Play Music,Start my favorite playlist.,Turn on the radio.,0
+Play Music,Start my favorite playlist.,Start my saved songs.,1
+Play Music,Start my favorite playlist.,Let's listen to music.,1
+Play Music,Start my favorite playlist.,Play something relaxing.,0
+Play Music,Start my favorite playlist.,Play upbeat tracks.,0
+Play Music,Start my favorite playlist.,Can you start the music?,1
+Play Music,Start my favorite playlist.,Put on a song.,0
+Play Music,Start my favorite playlist.,Play my last listened-to music.,1
+Play Music,Start my favorite playlist.,Shuffle my favorite songs.,0
+Play Music,Start my favorite playlist.,Turn on my music list.,0
+Play Music,Start my favorite playlist.,Queue my best songs.,0
+Play Music,Start my favorite playlist.,Start playing jazz music.,0
+Play Music,Start my favorite playlist.,Play classical music.,0
+Play Music,Start my favorite playlist.,Turn on some tunes.,0
+Play Music,Start my favorite playlist.,Begin my party playlist.,1
+Play Music,Start my favorite playlist.,I want to hear some music.,0
+Play Music,Start my favorite playlist.,Play an instrumental song.,0
+Play Music,Start my favorite playlist.,Put on some relaxing sounds.,1
+Play Music,Start my favorite playlist.,Start the music player.,1
+Play Music,Start my favorite playlist.,Turn on Spotify and play songs.,1
+Play Music,Start my favorite playlist.,Resume my last played track.,0
+Play Music,Start my favorite playlist.,Play some rock music.,1
+Play Music,Start my favorite playlist.,Shuffle and play my playlist.,1
+Play Music,Turn on some songs.,Can you play my top hits?,1
+Play Music,Turn on some songs.,Put on some background music.,1
+Play Music,Turn on some songs.,Play a song for me.,0
+Play Music,Turn on some songs.,Play my most recent playlist.,0
+Play Music,Turn on some songs.,Turn on the radio.,0
+Play Music,Turn on some songs.,Start my saved songs.,1
+Play Music,Turn on some songs.,Let's listen to music.,0
+Play Music,Turn on some songs.,Play something relaxing.,0
+Play Music,Turn on some songs.,Play upbeat tracks.,0
+Play Music,Turn on some songs.,Can you start the music?,1
+Play Music,Turn on some songs.,Put on a song.,0
+Play Music,Turn on some songs.,Play my last listened-to music.,1
+Play Music,Turn on some songs.,Shuffle my favorite songs.,0
+Play Music,Turn on some songs.,Turn on my music list.,1
+Play Music,Turn on some songs.,Queue my best songs.,0
+Play Music,Turn on some songs.,Start playing jazz music.,0
+Play Music,Turn on some songs.,Play classical music.,0
+Play Music,Turn on some songs.,Turn on some tunes.,0
+Play Music,Turn on some songs.,Begin my party playlist.,1
+Play Music,Turn on some songs.,I want to hear some music.,0
+Play Music,Turn on some songs.,Play an instrumental song.,0
+Play Music,Turn on some songs.,Put on some relaxing sounds.,0
+Play Music,Turn on some songs.,Start the music player.,1
+Play Music,Turn on some songs.,Turn on Spotify and play songs.,1
+Play Music,Turn on some songs.,Resume my last played track.,1
+Play Music,Turn on some songs.,Play some rock music.,1
+Play Music,Turn on some songs.,Shuffle and play my playlist.,0
+Play Music,Can you play my top hits?,Put on some background music.,1
+Play Music,Can you play my top hits?,Play a song for me.,1
+Play Music,Can you play my top hits?,Play my most recent playlist.,0
+Play Music,Can you play my top hits?,Turn on the radio.,0
+Play Music,Can you play my top hits?,Start my saved songs.,1
+Play Music,Can you play my top hits?,Let's listen to music.,1
+Play Music,Can you play my top hits?,Play something relaxing.,0
+Play Music,Can you play my top hits?,Play upbeat tracks.,1
+Play Music,Can you play my top hits?,Can you start the music?,1
+Play Music,Can you play my top hits?,Put on a song.,0
+Play Music,Can you play my top hits?,Play my last listened-to music.,0
+Play Music,Can you play my top hits?,Shuffle my favorite songs.,1
+Play Music,Can you play my top hits?,Turn on my music list.,0
+Play Music,Can you play my top hits?,Queue my best songs.,1
+Play Music,Can you play my top hits?,Start playing jazz music.,1
+Play Music,Can you play my top hits?,Play classical music.,1
+Play Music,Can you play my top hits?,Turn on some tunes.,1
+Play Music,Can you play my top hits?,Begin my party playlist.,0
+Play Music,Can you play my top hits?,I want to hear some music.,0
+Play Music,Can you play my top hits?,Play an instrumental song.,1
+Play Music,Can you play my top hits?,Put on some relaxing sounds.,0
+Play Music,Can you play my top hits?,Start the music player.,1
+Play Music,Can you play my top hits?,Turn on Spotify and play songs.,0
+Play Music,Can you play my top hits?,Resume my last played track.,1
+Play Music,Can you play my top hits?,Play some rock music.,1
+Play Music,Can you play my top hits?,Shuffle and play my playlist.,0
+Play Music,Put on some background music.,Play a song for me.,1
+Play Music,Put on some background music.,Play my most recent playlist.,1
+Play Music,Put on some background music.,Turn on the radio.,1
+Play Music,Put on some background music.,Start my saved songs.,1
+Play Music,Put on some background music.,Let's listen to music.,1
+Play Music,Put on some background music.,Play something relaxing.,0
+Play Music,Put on some background music.,Play upbeat tracks.,0
+Play Music,Put on some background music.,Can you start the music?,0
+Play Music,Put on some background music.,Put on a song.,1
+Play Music,Put on some background music.,Play my last listened-to music.,0
+Play Music,Put on some background music.,Shuffle my favorite songs.,0
+Play Music,Put on some background music.,Turn on my music list.,0
+Play Music,Put on some background music.,Queue my best songs.,1
+Play Music,Put on some background music.,Start playing jazz music.,1
+Play Music,Put on some background music.,Play classical music.,1
+Play Music,Put on some background music.,Turn on some tunes.,0
+Play Music,Put on some background music.,Begin my party playlist.,0
+Play Music,Put on some background music.,I want to hear some music.,1
+Play Music,Put on some background music.,Play an instrumental song.,1
+Play Music,Put on some background music.,Put on some relaxing sounds.,0
+Play Music,Put on some background music.,Start the music player.,1
+Play Music,Put on some background music.,Turn on Spotify and play songs.,0
+Play Music,Put on some background music.,Resume my last played track.,0
+Play Music,Put on some background music.,Play some rock music.,1
+Play Music,Put on some background music.,Shuffle and play my playlist.,0
+Play Music,Play a song for me.,Play my most recent playlist.,1
+Play Music,Play a song for me.,Turn on the radio.,0
+Play Music,Play a song for me.,Start my saved songs.,1
+Play Music,Play a song for me.,Let's listen to music.,0
+Play Music,Play a song for me.,Play something relaxing.,0
+Play Music,Play a song for me.,Play upbeat tracks.,0
+Play Music,Play a song for me.,Can you start the music?,1
+Play Music,Play a song for me.,Put on a song.,0
+Play Music,Play a song for me.,Play my last listened-to music.,0
+Play Music,Play a song for me.,Shuffle my favorite songs.,1
+Play Music,Play a song for me.,Turn on my music list.,1
+Play Music,Play a song for me.,Queue my best songs.,0
+Play Music,Play a song for me.,Start playing jazz music.,0
+Play Music,Play a song for me.,Play classical music.,0
+Play Music,Play a song for me.,Turn on some tunes.,1
+Play Music,Play a song for me.,Begin my party playlist.,0
+Play Music,Play a song for me.,I want to hear some music.,0
+Play Music,Play a song for me.,Play an instrumental song.,1
+Play Music,Play a song for me.,Put on some relaxing sounds.,0
+Play Music,Play a song for me.,Start the music player.,1
+Play Music,Play a song for me.,Turn on Spotify and play songs.,1
+Play Music,Play a song for me.,Resume my last played track.,1
+Play Music,Play a song for me.,Play some rock music.,0
+Play Music,Play a song for me.,Shuffle and play my playlist.,1
+Play Music,Play my most recent playlist.,Turn on the radio.,1
+Play Music,Play my most recent playlist.,Start my saved songs.,1
+Play Music,Play my most recent playlist.,Let's listen to music.,1
+Play Music,Play my most recent playlist.,Play something relaxing.,1
+Play Music,Play my most recent playlist.,Play upbeat tracks.,0
+Play Music,Play my most recent playlist.,Can you start the music?,1
+Play Music,Play my most recent playlist.,Put on a song.,0
+Play Music,Play my most recent playlist.,Play my last listened-to music.,0
+Play Music,Play my most recent playlist.,Shuffle my favorite songs.,0
+Play Music,Play my most recent playlist.,Turn on my music list.,1
+Play Music,Play my most recent playlist.,Queue my best songs.,1
+Play Music,Play my most recent playlist.,Start playing jazz music.,1
+Play Music,Play my most recent playlist.,Play classical music.,0
+Play Music,Play my most recent playlist.,Turn on some tunes.,0
+Play Music,Play my most recent playlist.,Begin my party playlist.,0
+Play Music,Play my most recent playlist.,I want to hear some music.,1
+Play Music,Play my most recent playlist.,Play an instrumental song.,1
+Play Music,Play my most recent playlist.,Put on some relaxing sounds.,0
+Play Music,Play my most recent playlist.,Start the music player.,1
+Play Music,Play my most recent playlist.,Turn on Spotify and play songs.,0
+Play Music,Play my most recent playlist.,Resume my last played track.,0
+Play Music,Play my most recent playlist.,Play some rock music.,1
+Play Music,Play my most recent playlist.,Shuffle and play my playlist.,0
+Play Music,Turn on the radio.,Start my saved songs.,0
+Play Music,Turn on the radio.,Let's listen to music.,1
+Play Music,Turn on the radio.,Play something relaxing.,1
+Play Music,Turn on the radio.,Play upbeat tracks.,1
+Play Music,Turn on the radio.,Can you start the music?,0
+Play Music,Turn on the radio.,Put on a song.,1
+Play Music,Turn on the radio.,Play my last listened-to music.,1
+Play Music,Turn on the radio.,Shuffle my favorite songs.,1
+Play Music,Turn on the radio.,Turn on my music list.,1
+Play Music,Turn on the radio.,Queue my best songs.,1
+Play Music,Turn on the radio.,Start playing jazz music.,0
+Play Music,Turn on the radio.,Play classical music.,1
+Play Music,Turn on the radio.,Turn on some tunes.,0
+Play Music,Turn on the radio.,Begin my party playlist.,1
+Play Music,Turn on the radio.,I want to hear some music.,1
+Play Music,Turn on the radio.,Play an instrumental song.,0
+Play Music,Turn on the radio.,Put on some relaxing sounds.,0
+Play Music,Turn on the radio.,Start the music player.,0
+Play Music,Turn on the radio.,Turn on Spotify and play songs.,0
+Play Music,Turn on the radio.,Resume my last played track.,0
+Play Music,Turn on the radio.,Play some rock music.,0
+Play Music,Turn on the radio.,Shuffle and play my playlist.,1
+Play Music,Start my saved songs.,Let's listen to music.,1
+Play Music,Start my saved songs.,Play something relaxing.,0
+Play Music,Start my saved songs.,Play upbeat tracks.,1
+Play Music,Start my saved songs.,Can you start the music?,0
+Play Music,Start my saved songs.,Put on a song.,0
+Play Music,Start my saved songs.,Play my last listened-to music.,1
+Play Music,Start my saved songs.,Shuffle my favorite songs.,0
+Play Music,Start my saved songs.,Turn on my music list.,1
+Play Music,Start my saved songs.,Queue my best songs.,1
+Play Music,Start my saved songs.,Start playing jazz music.,0
+Play Music,Start my saved songs.,Play classical music.,1
+Play Music,Start my saved songs.,Turn on some tunes.,1
+Play Music,Start my saved songs.,Begin my party playlist.,0
+Play Music,Start my saved songs.,I want to hear some music.,0
+Play Music,Start my saved songs.,Play an instrumental song.,0
+Play Music,Start my saved songs.,Put on some relaxing sounds.,1
+Play Music,Start my saved songs.,Start the music player.,1
+Play Music,Start my saved songs.,Turn on Spotify and play songs.,0
+Play Music,Start my saved songs.,Resume my last played track.,0
+Play Music,Start my saved songs.,Play some rock music.,0
+Play Music,Start my saved songs.,Shuffle and play my playlist.,1
+Play Music,Let's listen to music.,Play something relaxing.,1
+Play Music,Let's listen to music.,Play upbeat tracks.,0
+Play Music,Let's listen to music.,Can you start the music?,0
+Play Music,Let's listen to music.,Put on a song.,1
+Play Music,Let's listen to music.,Play my last listened-to music.,0
+Play Music,Let's listen to music.,Shuffle my favorite songs.,0
+Play Music,Let's listen to music.,Turn on my music list.,0
+Play Music,Let's listen to music.,Queue my best songs.,1
+Play Music,Let's listen to music.,Start playing jazz music.,0
+Play Music,Let's listen to music.,Play classical music.,0
+Play Music,Let's listen to music.,Turn on some tunes.,0
+Play Music,Let's listen to music.,Begin my party playlist.,1
+Play Music,Let's listen to music.,I want to hear some music.,1
+Play Music,Let's listen to music.,Play an instrumental song.,1
+Play Music,Let's listen to music.,Put on some relaxing sounds.,0
+Play Music,Let's listen to music.,Start the music player.,1
+Play Music,Let's listen to music.,Turn on Spotify and play songs.,1
+Play Music,Let's listen to music.,Resume my last played track.,1
+Play Music,Let's listen to music.,Play some rock music.,0
+Play Music,Let's listen to music.,Shuffle and play my playlist.,0
+Play Music,Play something relaxing.,Play upbeat tracks.,1
+Play Music,Play something relaxing.,Can you start the music?,0
+Play Music,Play something relaxing.,Put on a song.,0
+Play Music,Play something relaxing.,Play my last listened-to music.,1
+Play Music,Play something relaxing.,Shuffle my favorite songs.,1
+Play Music,Play something relaxing.,Turn on my music list.,1
+Play Music,Play something relaxing.,Queue my best songs.,1
+Play Music,Play something relaxing.,Start playing jazz music.,1
+Play Music,Play something relaxing.,Play classical music.,0
+Play Music,Play something relaxing.,Turn on some tunes.,1
+Play Music,Play something relaxing.,Begin my party playlist.,1
+Play Music,Play something relaxing.,I want to hear some music.,0
+Play Music,Play something relaxing.,Play an instrumental song.,0
+Play Music,Play something relaxing.,Put on some relaxing sounds.,1
+Play Music,Play something relaxing.,Start the music player.,1
+Play Music,Play something relaxing.,Turn on Spotify and play songs.,0
+Play Music,Play something relaxing.,Resume my last played track.,0
+Play Music,Play something relaxing.,Play some rock music.,0
+Play Music,Play something relaxing.,Shuffle and play my playlist.,1
+Play Music,Play upbeat tracks.,Can you start the music?,1
+Play Music,Play upbeat tracks.,Put on a song.,1
+Play Music,Play upbeat tracks.,Play my last listened-to music.,0
+Play Music,Play upbeat tracks.,Shuffle my favorite songs.,0
+Play Music,Play upbeat tracks.,Turn on my music list.,1
+Play Music,Play upbeat tracks.,Queue my best songs.,1
+Play Music,Play upbeat tracks.,Start playing jazz music.,1
+Play Music,Play upbeat tracks.,Play classical music.,0
+Play Music,Play upbeat tracks.,Turn on some tunes.,0
+Play Music,Play upbeat tracks.,Begin my party playlist.,0
+Play Music,Play upbeat tracks.,I want to hear some music.,0
+Play Music,Play upbeat tracks.,Play an instrumental song.,1
+Play Music,Play upbeat tracks.,Put on some relaxing sounds.,0
+Play Music,Play upbeat tracks.,Start the music player.,0
+Play Music,Play upbeat tracks.,Turn on Spotify and play songs.,0
+Play Music,Play upbeat tracks.,Resume my last played track.,0
+Play Music,Play upbeat tracks.,Play some rock music.,1
+Play Music,Play upbeat tracks.,Shuffle and play my playlist.,0
+Play Music,Can you start the music?,Put on a song.,1
+Play Music,Can you start the music?,Play my last listened-to music.,0
+Play Music,Can you start the music?,Shuffle my favorite songs.,0
+Play Music,Can you start the music?,Turn on my music list.,0
+Play Music,Can you start the music?,Queue my best songs.,1
+Play Music,Can you start the music?,Start playing jazz music.,1
+Play Music,Can you start the music?,Play classical music.,1
+Play Music,Can you start the music?,Turn on some tunes.,0
+Play Music,Can you start the music?,Begin my party playlist.,0
+Play Music,Can you start the music?,I want to hear some music.,1
+Play Music,Can you start the music?,Play an instrumental song.,0
+Play Music,Can you start the music?,Put on some relaxing sounds.,0
+Play Music,Can you start the music?,Start the music player.,1
+Play Music,Can you start the music?,Turn on Spotify and play songs.,0
+Play Music,Can you start the music?,Resume my last played track.,0
+Play Music,Can you start the music?,Play some rock music.,1
+Play Music,Can you start the music?,Shuffle and play my playlist.,1
+Play Music,Put on a song.,Play my last listened-to music.,0
+Play Music,Put on a song.,Shuffle my favorite songs.,1
+Play Music,Put on a song.,Turn on my music list.,1
+Play Music,Put on a song.,Queue my best songs.,1
+Play Music,Put on a song.,Start playing jazz music.,1
+Play Music,Put on a song.,Play classical music.,1
+Play Music,Put on a song.,Turn on some tunes.,0
+Play Music,Put on a song.,Begin my party playlist.,0
+Play Music,Put on a song.,I want to hear some music.,1
+Play Music,Put on a song.,Play an instrumental song.,0
+Play Music,Put on a song.,Put on some relaxing sounds.,0
+Play Music,Put on a song.,Start the music player.,0
+Play Music,Put on a song.,Turn on Spotify and play songs.,1
+Play Music,Put on a song.,Resume my last played track.,0
+Play Music,Put on a song.,Play some rock music.,0
+Play Music,Put on a song.,Shuffle and play my playlist.,1
+Play Music,Play my last listened-to music.,Shuffle my favorite songs.,1
+Play Music,Play my last listened-to music.,Turn on my music list.,0
+Play Music,Play my last listened-to music.,Queue my best songs.,1
+Play Music,Play my last listened-to music.,Start playing jazz music.,1
+Play Music,Play my last listened-to music.,Play classical music.,1
+Play Music,Play my last listened-to music.,Turn on some tunes.,0
+Play Music,Play my last listened-to music.,Begin my party playlist.,0
+Play Music,Play my last listened-to music.,I want to hear some music.,1
+Play Music,Play my last listened-to music.,Play an instrumental song.,0
+Play Music,Play my last listened-to music.,Put on some relaxing sounds.,0
+Play Music,Play my last listened-to music.,Start the music player.,0
+Play Music,Play my last listened-to music.,Turn on Spotify and play songs.,0
+Play Music,Play my last listened-to music.,Resume my last played track.,1
+Play Music,Play my last listened-to music.,Play some rock music.,0
+Play Music,Play my last listened-to music.,Shuffle and play my playlist.,1
+Play Music,Shuffle my favorite songs.,Turn on my music list.,1
+Play Music,Shuffle my favorite songs.,Queue my best songs.,1
+Play Music,Shuffle my favorite songs.,Start playing jazz music.,0
+Play Music,Shuffle my favorite songs.,Play classical music.,0
+Play Music,Shuffle my favorite songs.,Turn on some tunes.,0
+Play Music,Shuffle my favorite songs.,Begin my party playlist.,1
+Play Music,Shuffle my favorite songs.,I want to hear some music.,1
+Play Music,Shuffle my favorite songs.,Play an instrumental song.,1
+Play Music,Shuffle my favorite songs.,Put on some relaxing sounds.,1
+Play Music,Shuffle my favorite songs.,Start the music player.,1
+Play Music,Shuffle my favorite songs.,Turn on Spotify and play songs.,1
+Play Music,Shuffle my favorite songs.,Resume my last played track.,1
+Play Music,Shuffle my favorite songs.,Play some rock music.,1
+Play Music,Shuffle my favorite songs.,Shuffle and play my playlist.,1
+Play Music,Turn on my music list.,Queue my best songs.,1
+Play Music,Turn on my music list.,Start playing jazz music.,1
+Play Music,Turn on my music list.,Play classical music.,0
+Play Music,Turn on my music list.,Turn on some tunes.,1
+Play Music,Turn on my music list.,Begin my party playlist.,0
+Play Music,Turn on my music list.,I want to hear some music.,0
+Play Music,Turn on my music list.,Play an instrumental song.,0
+Play Music,Turn on my music list.,Put on some relaxing sounds.,1
+Play Music,Turn on my music list.,Start the music player.,1
+Play Music,Turn on my music list.,Turn on Spotify and play songs.,0
+Play Music,Turn on my music list.,Resume my last played track.,1
+Play Music,Turn on my music list.,Play some rock music.,1
+Play Music,Turn on my music list.,Shuffle and play my playlist.,1
+Play Music,Queue my best songs.,Start playing jazz music.,0
+Play Music,Queue my best songs.,Play classical music.,0
+Play Music,Queue my best songs.,Turn on some tunes.,0
+Play Music,Queue my best songs.,Begin my party playlist.,0
+Play Music,Queue my best songs.,I want to hear some music.,1
+Play Music,Queue my best songs.,Play an instrumental song.,0
+Play Music,Queue my best songs.,Put on some relaxing sounds.,0
+Play Music,Queue my best songs.,Start the music player.,0
+Play Music,Queue my best songs.,Turn on Spotify and play songs.,1
+Play Music,Queue my best songs.,Resume my last played track.,1
+Play Music,Queue my best songs.,Play some rock music.,0
+Play Music,Queue my best songs.,Shuffle and play my playlist.,0
+Play Music,Start playing jazz music.,Play classical music.,1
+Play Music,Start playing jazz music.,Turn on some tunes.,0
+Play Music,Start playing jazz music.,Begin my party playlist.,1
+Play Music,Start playing jazz music.,I want to hear some music.,0
+Play Music,Start playing jazz music.,Play an instrumental song.,1
+Play Music,Start playing jazz music.,Put on some relaxing sounds.,1
+Play Music,Start playing jazz music.,Start the music player.,0
+Play Music,Start playing jazz music.,Turn on Spotify and play songs.,0
+Play Music,Start playing jazz music.,Resume my last played track.,0
+Play Music,Start playing jazz music.,Play some rock music.,0
+Play Music,Start playing jazz music.,Shuffle and play my playlist.,1
+Play Music,Play classical music.,Turn on some tunes.,1
+Play Music,Play classical music.,Begin my party playlist.,0
+Play Music,Play classical music.,I want to hear some music.,0
+Play Music,Play classical music.,Play an instrumental song.,0
+Play Music,Play classical music.,Put on some relaxing sounds.,0
+Play Music,Play classical music.,Start the music player.,0
+Play Music,Play classical music.,Turn on Spotify and play songs.,0
+Play Music,Play classical music.,Resume my last played track.,1
+Play Music,Play classical music.,Play some rock music.,1
+Play Music,Play classical music.,Shuffle and play my playlist.,1
+Play Music,Turn on some tunes.,Begin my party playlist.,0
+Play Music,Turn on some tunes.,I want to hear some music.,0
+Play Music,Turn on some tunes.,Play an instrumental song.,0
+Play Music,Turn on some tunes.,Put on some relaxing sounds.,0
+Play Music,Turn on some tunes.,Start the music player.,0
+Play Music,Turn on some tunes.,Turn on Spotify and play songs.,1
+Play Music,Turn on some tunes.,Resume my last played track.,1
+Play Music,Turn on some tunes.,Play some rock music.,1
+Play Music,Turn on some tunes.,Shuffle and play my playlist.,1
+Play Music,Begin my party playlist.,I want to hear some music.,1
+Play Music,Begin my party playlist.,Play an instrumental song.,0
+Play Music,Begin my party playlist.,Put on some relaxing sounds.,0
+Play Music,Begin my party playlist.,Start the music player.,0
+Play Music,Begin my party playlist.,Turn on Spotify and play songs.,0
+Play Music,Begin my party playlist.,Resume my last played track.,0
+Play Music,Begin my party playlist.,Play some rock music.,0
+Play Music,Begin my party playlist.,Shuffle and play my playlist.,1
+Play Music,I want to hear some music.,Play an instrumental song.,0
+Play Music,I want to hear some music.,Put on some relaxing sounds.,1
+Play Music,I want to hear some music.,Start the music player.,0
+Play Music,I want to hear some music.,Turn on Spotify and play songs.,1
+Play Music,I want to hear some music.,Resume my last played track.,1
+Play Music,I want to hear some music.,Play some rock music.,0
+Play Music,I want to hear some music.,Shuffle and play my playlist.,0
+Play Music,Play an instrumental song.,Put on some relaxing sounds.,0
+Play Music,Play an instrumental song.,Start the music player.,1
+Play Music,Play an instrumental song.,Turn on Spotify and play songs.,1
+Play Music,Play an instrumental song.,Resume my last played track.,0
+Play Music,Play an instrumental song.,Play some rock music.,1
+Play Music,Play an instrumental song.,Shuffle and play my playlist.,1
+Play Music,Put on some relaxing sounds.,Start the music player.,1
+Play Music,Put on some relaxing sounds.,Turn on Spotify and play songs.,0
+Play Music,Put on some relaxing sounds.,Resume my last played track.,1
+Play Music,Put on some relaxing sounds.,Play some rock music.,1
+Play Music,Put on some relaxing sounds.,Shuffle and play my playlist.,0
+Play Music,Start the music player.,Turn on Spotify and play songs.,1
+Play Music,Start the music player.,Resume my last played track.,1
+Play Music,Start the music player.,Play some rock music.,1
+Play Music,Start the music player.,Shuffle and play my playlist.,1
+Play Music,Turn on Spotify and play songs.,Resume my last played track.,0
+Play Music,Turn on Spotify and play songs.,Play some rock music.,1
+Play Music,Turn on Spotify and play songs.,Shuffle and play my playlist.,1
+Play Music,Resume my last played track.,Play some rock music.,0
+Play Music,Resume my last played track.,Shuffle and play my playlist.,1
+Play Music,Play some rock music.,Shuffle and play my playlist.,0
+Check the Weather,What's the weather like today?,Tell me today's weather report.,0
+Check the Weather,What's the weather like today?,How's the weather right now?,0
+Check the Weather,What's the weather like today?,Give me the latest weather update.,1
+Check the Weather,What's the weather like today?,Is it going to rain today?,1
+Check the Weather,What's the weather like today?,What's the temperature outside?,0
+Check the Weather,What's the weather like today?,Check the weather for me.,0
+Check the Weather,What's the weather like today?,Give me the weather forecast.,0
+Check the Weather,What's the weather like today?,What's the weather like in my area?,1
+Check the Weather,What's the weather like today?,Tell me if it's sunny outside.,0
+Check the Weather,What's the weather like today?,Is it cloudy or clear today?,0
+Check the Weather,What's the weather like today?,Show me today's weather conditions.,0
+Check the Weather,What's the weather like today?,Is it warm outside?,0
+Check the Weather,What's the weather like today?,Do I need an umbrella today?,1
+Check the Weather,What's the weather like today?,Give me the weekly weather forecast.,0
+Check the Weather,What's the weather like today?,How cold is it outside?,0
+Check the Weather,What's the weather like today?,Tell me the current temperature.,1
+Check the Weather,What's the weather like today?,What's the humidity level today?,1
+Check the Weather,What's the weather like today?,Is it going to be windy today?,0
+Check the Weather,What's the weather like today?,Should I wear a jacket today?,0
+Check the Weather,What's the weather like today?,What's the weather going to be like tomorrow?,0
+Check the Weather,What's the weather like today?,Tell me the chance of rain today.,1
+Check the Weather,What's the weather like today?,Will it snow today?,1
+Check the Weather,What's the weather like today?,Check the forecast for this evening.,1
+Check the Weather,What's the weather like today?,Give me the expected temperature for today.,1
+Check the Weather,What's the weather like today?,Tell me if it's stormy outside.,0
+Check the Weather,What's the weather like today?,Check the air quality for me.,0
+Check the Weather,What's the weather like today?,What's the weather update for this weekend?,0
+Check the Weather,What's the weather like today?,Give me today's high and low temperatures.,0
+Check the Weather,What's the weather like today?,Should I wear sunglasses today?,0
+Check the Weather,Tell me today's weather report.,How's the weather right now?,0
+Check the Weather,Tell me today's weather report.,Give me the latest weather update.,1
+Check the Weather,Tell me today's weather report.,Is it going to rain today?,0
+Check the Weather,Tell me today's weather report.,What's the temperature outside?,1
+Check the Weather,Tell me today's weather report.,Check the weather for me.,0
+Check the Weather,Tell me today's weather report.,Give me the weather forecast.,0
+Check the Weather,Tell me today's weather report.,What's the weather like in my area?,1
+Check the Weather,Tell me today's weather report.,Tell me if it's sunny outside.,0
+Check the Weather,Tell me today's weather report.,Is it cloudy or clear today?,1
+Check the Weather,Tell me today's weather report.,Show me today's weather conditions.,1
+Check the Weather,Tell me today's weather report.,Is it warm outside?,0
+Check the Weather,Tell me today's weather report.,Do I need an umbrella today?,1
+Check the Weather,Tell me today's weather report.,Give me the weekly weather forecast.,1
+Check the Weather,Tell me today's weather report.,How cold is it outside?,0
+Check the Weather,Tell me today's weather report.,Tell me the current temperature.,1
+Check the Weather,Tell me today's weather report.,What's the humidity level today?,1
+Check the Weather,Tell me today's weather report.,Is it going to be windy today?,1
+Check the Weather,Tell me today's weather report.,Should I wear a jacket today?,1
+Check the Weather,Tell me today's weather report.,What's the weather going to be like tomorrow?,0
+Check the Weather,Tell me today's weather report.,Tell me the chance of rain today.,1
+Check the Weather,Tell me today's weather report.,Will it snow today?,0
+Check the Weather,Tell me today's weather report.,Check the forecast for this evening.,1
+Check the Weather,Tell me today's weather report.,Give me the expected temperature for today.,1
+Check the Weather,Tell me today's weather report.,Tell me if it's stormy outside.,1
+Check the Weather,Tell me today's weather report.,Check the air quality for me.,1
+Check the Weather,Tell me today's weather report.,What's the weather update for this weekend?,1
+Check the Weather,Tell me today's weather report.,Give me today's high and low temperatures.,1
+Check the Weather,Tell me today's weather report.,Should I wear sunglasses today?,1
+Check the Weather,How's the weather right now?,Give me the latest weather update.,0
+Check the Weather,How's the weather right now?,Is it going to rain today?,1
+Check the Weather,How's the weather right now?,What's the temperature outside?,1
+Check the Weather,How's the weather right now?,Check the weather for me.,0
+Check the Weather,How's the weather right now?,Give me the weather forecast.,1
+Check the Weather,How's the weather right now?,What's the weather like in my area?,0
+Check the Weather,How's the weather right now?,Tell me if it's sunny outside.,1
+Check the Weather,How's the weather right now?,Is it cloudy or clear today?,0
+Check the Weather,How's the weather right now?,Show me today's weather conditions.,0
+Check the Weather,How's the weather right now?,Is it warm outside?,1
+Check the Weather,How's the weather right now?,Do I need an umbrella today?,1
+Check the Weather,How's the weather right now?,Give me the weekly weather forecast.,1
+Check the Weather,How's the weather right now?,How cold is it outside?,1
+Check the Weather,How's the weather right now?,Tell me the current temperature.,1
+Check the Weather,How's the weather right now?,What's the humidity level today?,0
+Check the Weather,How's the weather right now?,Is it going to be windy today?,0
+Check the Weather,How's the weather right now?,Should I wear a jacket today?,0
+Check the Weather,How's the weather right now?,What's the weather going to be like tomorrow?,1
+Check the Weather,How's the weather right now?,Tell me the chance of rain today.,1
+Check the Weather,How's the weather right now?,Will it snow today?,1
+Check the Weather,How's the weather right now?,Check the forecast for this evening.,1
+Check the Weather,How's the weather right now?,Give me the expected temperature for today.,0
+Check the Weather,How's the weather right now?,Tell me if it's stormy outside.,0
+Check the Weather,How's the weather right now?,Check the air quality for me.,1
+Check the Weather,How's the weather right now?,What's the weather update for this weekend?,0
+Check the Weather,How's the weather right now?,Give me today's high and low temperatures.,0
+Check the Weather,How's the weather right now?,Should I wear sunglasses today?,1
+Check the Weather,Give me the latest weather update.,Is it going to rain today?,1
+Check the Weather,Give me the latest weather update.,What's the temperature outside?,1
+Check the Weather,Give me the latest weather update.,Check the weather for me.,0
+Check the Weather,Give me the latest weather update.,Give me the weather forecast.,1
+Check the Weather,Give me the latest weather update.,What's the weather like in my area?,1
+Check the Weather,Give me the latest weather update.,Tell me if it's sunny outside.,1
+Check the Weather,Give me the latest weather update.,Is it cloudy or clear today?,1
+Check the Weather,Give me the latest weather update.,Show me today's weather conditions.,1
+Check the Weather,Give me the latest weather update.,Is it warm outside?,1
+Check the Weather,Give me the latest weather update.,Do I need an umbrella today?,0
+Check the Weather,Give me the latest weather update.,Give me the weekly weather forecast.,0
+Check the Weather,Give me the latest weather update.,How cold is it outside?,1
+Check the Weather,Give me the latest weather update.,Tell me the current temperature.,1
+Check the Weather,Give me the latest weather update.,What's the humidity level today?,0
+Check the Weather,Give me the latest weather update.,Is it going to be windy today?,0
+Check the Weather,Give me the latest weather update.,Should I wear a jacket today?,0
+Check the Weather,Give me the latest weather update.,What's the weather going to be like tomorrow?,0
+Check the Weather,Give me the latest weather update.,Tell me the chance of rain today.,0
+Check the Weather,Give me the latest weather update.,Will it snow today?,1
+Check the Weather,Give me the latest weather update.,Check the forecast for this evening.,0
+Check the Weather,Give me the latest weather update.,Give me the expected temperature for today.,0
+Check the Weather,Give me the latest weather update.,Tell me if it's stormy outside.,1
+Check the Weather,Give me the latest weather update.,Check the air quality for me.,1
+Check the Weather,Give me the latest weather update.,What's the weather update for this weekend?,0
+Check the Weather,Give me the latest weather update.,Give me today's high and low temperatures.,0
+Check the Weather,Give me the latest weather update.,Should I wear sunglasses today?,1
+Check the Weather,Is it going to rain today?,What's the temperature outside?,1
+Check the Weather,Is it going to rain today?,Check the weather for me.,0
+Check the Weather,Is it going to rain today?,Give me the weather forecast.,1
+Check the Weather,Is it going to rain today?,What's the weather like in my area?,0
+Check the Weather,Is it going to rain today?,Tell me if it's sunny outside.,0
+Check the Weather,Is it going to rain today?,Is it cloudy or clear today?,1
+Check the Weather,Is it going to rain today?,Show me today's weather conditions.,0
+Check the Weather,Is it going to rain today?,Is it warm outside?,1
+Check the Weather,Is it going to rain today?,Do I need an umbrella today?,1
+Check the Weather,Is it going to rain today?,Give me the weekly weather forecast.,0
+Check the Weather,Is it going to rain today?,How cold is it outside?,0
+Check the Weather,Is it going to rain today?,Tell me the current temperature.,0
+Check the Weather,Is it going to rain today?,What's the humidity level today?,0
+Check the Weather,Is it going to rain today?,Is it going to be windy today?,1
+Check the Weather,Is it going to rain today?,Should I wear a jacket today?,0
+Check the Weather,Is it going to rain today?,What's the weather going to be like tomorrow?,1
+Check the Weather,Is it going to rain today?,Tell me the chance of rain today.,1
+Check the Weather,Is it going to rain today?,Will it snow today?,1
+Check the Weather,Is it going to rain today?,Check the forecast for this evening.,0
+Check the Weather,Is it going to rain today?,Give me the expected temperature for today.,1
+Check the Weather,Is it going to rain today?,Tell me if it's stormy outside.,1
+Check the Weather,Is it going to rain today?,Check the air quality for me.,0
+Check the Weather,Is it going to rain today?,What's the weather update for this weekend?,1
+Check the Weather,Is it going to rain today?,Give me today's high and low temperatures.,0
+Check the Weather,Is it going to rain today?,Should I wear sunglasses today?,1
+Check the Weather,What's the temperature outside?,Check the weather for me.,1
+Check the Weather,What's the temperature outside?,Give me the weather forecast.,1
+Check the Weather,What's the temperature outside?,What's the weather like in my area?,1
+Check the Weather,What's the temperature outside?,Tell me if it's sunny outside.,1
+Check the Weather,What's the temperature outside?,Is it cloudy or clear today?,1
+Check the Weather,What's the temperature outside?,Show me today's weather conditions.,1
+Check the Weather,What's the temperature outside?,Is it warm outside?,1
+Check the Weather,What's the temperature outside?,Do I need an umbrella today?,1
+Check the Weather,What's the temperature outside?,Give me the weekly weather forecast.,1
+Check the Weather,What's the temperature outside?,How cold is it outside?,1
+Check the Weather,What's the temperature outside?,Tell me the current temperature.,0
+Check the Weather,What's the temperature outside?,What's the humidity level today?,1
+Check the Weather,What's the temperature outside?,Is it going to be windy today?,0
+Check the Weather,What's the temperature outside?,Should I wear a jacket today?,1
+Check the Weather,What's the temperature outside?,What's the weather going to be like tomorrow?,0
+Check the Weather,What's the temperature outside?,Tell me the chance of rain today.,0
+Check the Weather,What's the temperature outside?,Will it snow today?,0
+Check the Weather,What's the temperature outside?,Check the forecast for this evening.,1
+Check the Weather,What's the temperature outside?,Give me the expected temperature for today.,0
+Check the Weather,What's the temperature outside?,Tell me if it's stormy outside.,0
+Check the Weather,What's the temperature outside?,Check the air quality for me.,1
+Check the Weather,What's the temperature outside?,What's the weather update for this weekend?,0
+Check the Weather,What's the temperature outside?,Give me today's high and low temperatures.,0
+Check the Weather,What's the temperature outside?,Should I wear sunglasses today?,0
+Check the Weather,Check the weather for me.,Give me the weather forecast.,0
+Check the Weather,Check the weather for me.,What's the weather like in my area?,0
+Check the Weather,Check the weather for me.,Tell me if it's sunny outside.,0
+Check the Weather,Check the weather for me.,Is it cloudy or clear today?,1
+Check the Weather,Check the weather for me.,Show me today's weather conditions.,0
+Check the Weather,Check the weather for me.,Is it warm outside?,1
+Check the Weather,Check the weather for me.,Do I need an umbrella today?,0
+Check the Weather,Check the weather for me.,Give me the weekly weather forecast.,1
+Check the Weather,Check the weather for me.,How cold is it outside?,1
+Check the Weather,Check the weather for me.,Tell me the current temperature.,1
+Check the Weather,Check the weather for me.,What's the humidity level today?,0
+Check the Weather,Check the weather for me.,Is it going to be windy today?,1
+Check the Weather,Check the weather for me.,Should I wear a jacket today?,1
+Check the Weather,Check the weather for me.,What's the weather going to be like tomorrow?,1
+Check the Weather,Check the weather for me.,Tell me the chance of rain today.,0
+Check the Weather,Check the weather for me.,Will it snow today?,0
+Check the Weather,Check the weather for me.,Check the forecast for this evening.,1
+Check the Weather,Check the weather for me.,Give me the expected temperature for today.,0
+Check the Weather,Check the weather for me.,Tell me if it's stormy outside.,1
+Check the Weather,Check the weather for me.,Check the air quality for me.,1
+Check the Weather,Check the weather for me.,What's the weather update for this weekend?,1
+Check the Weather,Check the weather for me.,Give me today's high and low temperatures.,0
+Check the Weather,Check the weather for me.,Should I wear sunglasses today?,1
+Check the Weather,Give me the weather forecast.,What's the weather like in my area?,1
+Check the Weather,Give me the weather forecast.,Tell me if it's sunny outside.,0
+Check the Weather,Give me the weather forecast.,Is it cloudy or clear today?,0
+Check the Weather,Give me the weather forecast.,Show me today's weather conditions.,0
+Check the Weather,Give me the weather forecast.,Is it warm outside?,0
+Check the Weather,Give me the weather forecast.,Do I need an umbrella today?,0
+Check the Weather,Give me the weather forecast.,Give me the weekly weather forecast.,1
+Check the Weather,Give me the weather forecast.,How cold is it outside?,1
+Check the Weather,Give me the weather forecast.,Tell me the current temperature.,1
+Check the Weather,Give me the weather forecast.,What's the humidity level today?,1
+Check the Weather,Give me the weather forecast.,Is it going to be windy today?,0
+Check the Weather,Give me the weather forecast.,Should I wear a jacket today?,1
+Check the Weather,Give me the weather forecast.,What's the weather going to be like tomorrow?,1
+Check the Weather,Give me the weather forecast.,Tell me the chance of rain today.,0
+Check the Weather,Give me the weather forecast.,Will it snow today?,1
+Check the Weather,Give me the weather forecast.,Check the forecast for this evening.,0
+Check the Weather,Give me the weather forecast.,Give me the expected temperature for today.,1
+Check the Weather,Give me the weather forecast.,Tell me if it's stormy outside.,1
+Check the Weather,Give me the weather forecast.,Check the air quality for me.,0
+Check the Weather,Give me the weather forecast.,What's the weather update for this weekend?,1
+Check the Weather,Give me the weather forecast.,Give me today's high and low temperatures.,0
+Check the Weather,Give me the weather forecast.,Should I wear sunglasses today?,1
+Check the Weather,What's the weather like in my area?,Tell me if it's sunny outside.,0
+Check the Weather,What's the weather like in my area?,Is it cloudy or clear today?,0
+Check the Weather,What's the weather like in my area?,Show me today's weather conditions.,1
+Check the Weather,What's the weather like in my area?,Is it warm outside?,0
+Check the Weather,What's the weather like in my area?,Do I need an umbrella today?,0
+Check the Weather,What's the weather like in my area?,Give me the weekly weather forecast.,0
+Check the Weather,What's the weather like in my area?,How cold is it outside?,0
+Check the Weather,What's the weather like in my area?,Tell me the current temperature.,1
+Check the Weather,What's the weather like in my area?,What's the humidity level today?,0
+Check the Weather,What's the weather like in my area?,Is it going to be windy today?,1
+Check the Weather,What's the weather like in my area?,Should I wear a jacket today?,1
+Check the Weather,What's the weather like in my area?,What's the weather going to be like tomorrow?,0
+Check the Weather,What's the weather like in my area?,Tell me the chance of rain today.,1
+Check the Weather,What's the weather like in my area?,Will it snow today?,1
+Check the Weather,What's the weather like in my area?,Check the forecast for this evening.,0
+Check the Weather,What's the weather like in my area?,Give me the expected temperature for today.,0
+Check the Weather,What's the weather like in my area?,Tell me if it's stormy outside.,1
+Check the Weather,What's the weather like in my area?,Check the air quality for me.,1
+Check the Weather,What's the weather like in my area?,What's the weather update for this weekend?,1
+Check the Weather,What's the weather like in my area?,Give me today's high and low temperatures.,1
+Check the Weather,What's the weather like in my area?,Should I wear sunglasses today?,0
+Check the Weather,Tell me if it's sunny outside.,Is it cloudy or clear today?,0
+Check the Weather,Tell me if it's sunny outside.,Show me today's weather conditions.,1
+Check the Weather,Tell me if it's sunny outside.,Is it warm outside?,0
+Check the Weather,Tell me if it's sunny outside.,Do I need an umbrella today?,0
+Check the Weather,Tell me if it's sunny outside.,Give me the weekly weather forecast.,0
+Check the Weather,Tell me if it's sunny outside.,How cold is it outside?,1
+Check the Weather,Tell me if it's sunny outside.,Tell me the current temperature.,0
+Check the Weather,Tell me if it's sunny outside.,What's the humidity level today?,0
+Check the Weather,Tell me if it's sunny outside.,Is it going to be windy today?,1
+Check the Weather,Tell me if it's sunny outside.,Should I wear a jacket today?,1
+Check the Weather,Tell me if it's sunny outside.,What's the weather going to be like tomorrow?,0
+Check the Weather,Tell me if it's sunny outside.,Tell me the chance of rain today.,1
+Check the Weather,Tell me if it's sunny outside.,Will it snow today?,0
+Check the Weather,Tell me if it's sunny outside.,Check the forecast for this evening.,0
+Check the Weather,Tell me if it's sunny outside.,Give me the expected temperature for today.,1
+Check the Weather,Tell me if it's sunny outside.,Tell me if it's stormy outside.,0
+Check the Weather,Tell me if it's sunny outside.,Check the air quality for me.,0
+Check the Weather,Tell me if it's sunny outside.,What's the weather update for this weekend?,1
+Check the Weather,Tell me if it's sunny outside.,Give me today's high and low temperatures.,1
+Check the Weather,Tell me if it's sunny outside.,Should I wear sunglasses today?,0
+Check the Weather,Is it cloudy or clear today?,Show me today's weather conditions.,1
+Check the Weather,Is it cloudy or clear today?,Is it warm outside?,0
+Check the Weather,Is it cloudy or clear today?,Do I need an umbrella today?,1
+Check the Weather,Is it cloudy or clear today?,Give me the weekly weather forecast.,1
+Check the Weather,Is it cloudy or clear today?,How cold is it outside?,0
+Check the Weather,Is it cloudy or clear today?,Tell me the current temperature.,1
+Check the Weather,Is it cloudy or clear today?,What's the humidity level today?,0
+Check the Weather,Is it cloudy or clear today?,Is it going to be windy today?,1
+Check the Weather,Is it cloudy or clear today?,Should I wear a jacket today?,0
+Check the Weather,Is it cloudy or clear today?,What's the weather going to be like tomorrow?,0
+Check the Weather,Is it cloudy or clear today?,Tell me the chance of rain today.,0
+Check the Weather,Is it cloudy or clear today?,Will it snow today?,0
+Check the Weather,Is it cloudy or clear today?,Check the forecast for this evening.,0
+Check the Weather,Is it cloudy or clear today?,Give me the expected temperature for today.,0
+Check the Weather,Is it cloudy or clear today?,Tell me if it's stormy outside.,1
+Check the Weather,Is it cloudy or clear today?,Check the air quality for me.,1
+Check the Weather,Is it cloudy or clear today?,What's the weather update for this weekend?,0
+Check the Weather,Is it cloudy or clear today?,Give me today's high and low temperatures.,0
+Check the Weather,Is it cloudy or clear today?,Should I wear sunglasses today?,0
+Check the Weather,Show me today's weather conditions.,Is it warm outside?,1
+Check the Weather,Show me today's weather conditions.,Do I need an umbrella today?,1
+Check the Weather,Show me today's weather conditions.,Give me the weekly weather forecast.,1
+Check the Weather,Show me today's weather conditions.,How cold is it outside?,1
+Check the Weather,Show me today's weather conditions.,Tell me the current temperature.,0
+Check the Weather,Show me today's weather conditions.,What's the humidity level today?,0
+Check the Weather,Show me today's weather conditions.,Is it going to be windy today?,1
+Check the Weather,Show me today's weather conditions.,Should I wear a jacket today?,0
+Check the Weather,Show me today's weather conditions.,What's the weather going to be like tomorrow?,1
+Check the Weather,Show me today's weather conditions.,Tell me the chance of rain today.,0
+Check the Weather,Show me today's weather conditions.,Will it snow today?,1
+Check the Weather,Show me today's weather conditions.,Check the forecast for this evening.,0
+Check the Weather,Show me today's weather conditions.,Give me the expected temperature for today.,0
+Check the Weather,Show me today's weather conditions.,Tell me if it's stormy outside.,0
+Check the Weather,Show me today's weather conditions.,Check the air quality for me.,0
+Check the Weather,Show me today's weather conditions.,What's the weather update for this weekend?,1
+Check the Weather,Show me today's weather conditions.,Give me today's high and low temperatures.,0
+Check the Weather,Show me today's weather conditions.,Should I wear sunglasses today?,0
+Check the Weather,Is it warm outside?,Do I need an umbrella today?,1
+Check the Weather,Is it warm outside?,Give me the weekly weather forecast.,1
+Check the Weather,Is it warm outside?,How cold is it outside?,1
+Check the Weather,Is it warm outside?,Tell me the current temperature.,0
+Check the Weather,Is it warm outside?,What's the humidity level today?,0
+Check the Weather,Is it warm outside?,Is it going to be windy today?,0
+Check the Weather,Is it warm outside?,Should I wear a jacket today?,1
+Check the Weather,Is it warm outside?,What's the weather going to be like tomorrow?,0
+Check the Weather,Is it warm outside?,Tell me the chance of rain today.,0
+Check the Weather,Is it warm outside?,Will it snow today?,0
+Check the Weather,Is it warm outside?,Check the forecast for this evening.,0
+Check the Weather,Is it warm outside?,Give me the expected temperature for today.,0
+Check the Weather,Is it warm outside?,Tell me if it's stormy outside.,0
+Check the Weather,Is it warm outside?,Check the air quality for me.,1
+Check the Weather,Is it warm outside?,What's the weather update for this weekend?,0
+Check the Weather,Is it warm outside?,Give me today's high and low temperatures.,0
+Check the Weather,Is it warm outside?,Should I wear sunglasses today?,0
+Check the Weather,Do I need an umbrella today?,Give me the weekly weather forecast.,1
+Check the Weather,Do I need an umbrella today?,How cold is it outside?,1
+Check the Weather,Do I need an umbrella today?,Tell me the current temperature.,1
+Check the Weather,Do I need an umbrella today?,What's the humidity level today?,1
+Check the Weather,Do I need an umbrella today?,Is it going to be windy today?,1
+Check the Weather,Do I need an umbrella today?,Should I wear a jacket today?,0
+Check the Weather,Do I need an umbrella today?,What's the weather going to be like tomorrow?,1
+Check the Weather,Do I need an umbrella today?,Tell me the chance of rain today.,1
+Check the Weather,Do I need an umbrella today?,Will it snow today?,1
+Check the Weather,Do I need an umbrella today?,Check the forecast for this evening.,0
+Check the Weather,Do I need an umbrella today?,Give me the expected temperature for today.,0
+Check the Weather,Do I need an umbrella today?,Tell me if it's stormy outside.,0
+Check the Weather,Do I need an umbrella today?,Check the air quality for me.,0
+Check the Weather,Do I need an umbrella today?,What's the weather update for this weekend?,0
+Check the Weather,Do I need an umbrella today?,Give me today's high and low temperatures.,1
+Check the Weather,Do I need an umbrella today?,Should I wear sunglasses today?,1
+Check the Weather,Give me the weekly weather forecast.,How cold is it outside?,1
+Check the Weather,Give me the weekly weather forecast.,Tell me the current temperature.,1
+Check the Weather,Give me the weekly weather forecast.,What's the humidity level today?,0
+Check the Weather,Give me the weekly weather forecast.,Is it going to be windy today?,0
+Check the Weather,Give me the weekly weather forecast.,Should I wear a jacket today?,1
+Check the Weather,Give me the weekly weather forecast.,What's the weather going to be like tomorrow?,0
+Check the Weather,Give me the weekly weather forecast.,Tell me the chance of rain today.,0
+Check the Weather,Give me the weekly weather forecast.,Will it snow today?,1
+Check the Weather,Give me the weekly weather forecast.,Check the forecast for this evening.,0
+Check the Weather,Give me the weekly weather forecast.,Give me the expected temperature for today.,1
+Check the Weather,Give me the weekly weather forecast.,Tell me if it's stormy outside.,1
+Check the Weather,Give me the weekly weather forecast.,Check the air quality for me.,1
+Check the Weather,Give me the weekly weather forecast.,What's the weather update for this weekend?,1
+Check the Weather,Give me the weekly weather forecast.,Give me today's high and low temperatures.,1
+Check the Weather,Give me the weekly weather forecast.,Should I wear sunglasses today?,0
+Check the Weather,How cold is it outside?,Tell me the current temperature.,0
+Check the Weather,How cold is it outside?,What's the humidity level today?,0
+Check the Weather,How cold is it outside?,Is it going to be windy today?,0
+Check the Weather,How cold is it outside?,Should I wear a jacket today?,1
+Check the Weather,How cold is it outside?,What's the weather going to be like tomorrow?,1
+Check the Weather,How cold is it outside?,Tell me the chance of rain today.,0
+Check the Weather,How cold is it outside?,Will it snow today?,1
+Check the Weather,How cold is it outside?,Check the forecast for this evening.,0
+Check the Weather,How cold is it outside?,Give me the expected temperature for today.,0
+Check the Weather,How cold is it outside?,Tell me if it's stormy outside.,0
+Check the Weather,How cold is it outside?,Check the air quality for me.,1
+Check the Weather,How cold is it outside?,What's the weather update for this weekend?,1
+Check the Weather,How cold is it outside?,Give me today's high and low temperatures.,1
+Check the Weather,How cold is it outside?,Should I wear sunglasses today?,1
+Check the Weather,Tell me the current temperature.,What's the humidity level today?,1
+Check the Weather,Tell me the current temperature.,Is it going to be windy today?,1
+Check the Weather,Tell me the current temperature.,Should I wear a jacket today?,0
+Check the Weather,Tell me the current temperature.,What's the weather going to be like tomorrow?,1
+Check the Weather,Tell me the current temperature.,Tell me the chance of rain today.,1
+Check the Weather,Tell me the current temperature.,Will it snow today?,0
+Check the Weather,Tell me the current temperature.,Check the forecast for this evening.,1
+Check the Weather,Tell me the current temperature.,Give me the expected temperature for today.,1
+Check the Weather,Tell me the current temperature.,Tell me if it's stormy outside.,0
+Check the Weather,Tell me the current temperature.,Check the air quality for me.,0
+Check the Weather,Tell me the current temperature.,What's the weather update for this weekend?,0
+Check the Weather,Tell me the current temperature.,Give me today's high and low temperatures.,1
+Check the Weather,Tell me the current temperature.,Should I wear sunglasses today?,0
+Check the Weather,What's the humidity level today?,Is it going to be windy today?,0
+Check the Weather,What's the humidity level today?,Should I wear a jacket today?,0
+Check the Weather,What's the humidity level today?,What's the weather going to be like tomorrow?,0
+Check the Weather,What's the humidity level today?,Tell me the chance of rain today.,0
+Check the Weather,What's the humidity level today?,Will it snow today?,1
+Check the Weather,What's the humidity level today?,Check the forecast for this evening.,1
+Check the Weather,What's the humidity level today?,Give me the expected temperature for today.,1
+Check the Weather,What's the humidity level today?,Tell me if it's stormy outside.,1
+Check the Weather,What's the humidity level today?,Check the air quality for me.,1
+Check the Weather,What's the humidity level today?,What's the weather update for this weekend?,1
+Check the Weather,What's the humidity level today?,Give me today's high and low temperatures.,0
+Check the Weather,What's the humidity level today?,Should I wear sunglasses today?,1
+Check the Weather,Is it going to be windy today?,Should I wear a jacket today?,0
+Check the Weather,Is it going to be windy today?,What's the weather going to be like tomorrow?,1
+Check the Weather,Is it going to be windy today?,Tell me the chance of rain today.,0
+Check the Weather,Is it going to be windy today?,Will it snow today?,0
+Check the Weather,Is it going to be windy today?,Check the forecast for this evening.,1
+Check the Weather,Is it going to be windy today?,Give me the expected temperature for today.,0
+Check the Weather,Is it going to be windy today?,Tell me if it's stormy outside.,0
+Check the Weather,Is it going to be windy today?,Check the air quality for me.,0
+Check the Weather,Is it going to be windy today?,What's the weather update for this weekend?,0
+Check the Weather,Is it going to be windy today?,Give me today's high and low temperatures.,1
+Check the Weather,Is it going to be windy today?,Should I wear sunglasses today?,0
+Check the Weather,Should I wear a jacket today?,What's the weather going to be like tomorrow?,1
+Check the Weather,Should I wear a jacket today?,Tell me the chance of rain today.,1
+Check the Weather,Should I wear a jacket today?,Will it snow today?,1
+Check the Weather,Should I wear a jacket today?,Check the forecast for this evening.,0
+Check the Weather,Should I wear a jacket today?,Give me the expected temperature for today.,0
+Check the Weather,Should I wear a jacket today?,Tell me if it's stormy outside.,1
+Check the Weather,Should I wear a jacket today?,Check the air quality for me.,1
+Check the Weather,Should I wear a jacket today?,What's the weather update for this weekend?,1
+Check the Weather,Should I wear a jacket today?,Give me today's high and low temperatures.,0
+Check the Weather,Should I wear a jacket today?,Should I wear sunglasses today?,1
+Check the Weather,What's the weather going to be like tomorrow?,Tell me the chance of rain today.,0
+Check the Weather,What's the weather going to be like tomorrow?,Will it snow today?,1
+Check the Weather,What's the weather going to be like tomorrow?,Check the forecast for this evening.,0
+Check the Weather,What's the weather going to be like tomorrow?,Give me the expected temperature for today.,1
+Check the Weather,What's the weather going to be like tomorrow?,Tell me if it's stormy outside.,1
+Check the Weather,What's the weather going to be like tomorrow?,Check the air quality for me.,1
+Check the Weather,What's the weather going to be like tomorrow?,What's the weather update for this weekend?,0
+Check the Weather,What's the weather going to be like tomorrow?,Give me today's high and low temperatures.,0
+Check the Weather,What's the weather going to be like tomorrow?,Should I wear sunglasses today?,1
+Check the Weather,Tell me the chance of rain today.,Will it snow today?,1
+Check the Weather,Tell me the chance of rain today.,Check the forecast for this evening.,0
+Check the Weather,Tell me the chance of rain today.,Give me the expected temperature for today.,0
+Check the Weather,Tell me the chance of rain today.,Tell me if it's stormy outside.,1
+Check the Weather,Tell me the chance of rain today.,Check the air quality for me.,1
+Check the Weather,Tell me the chance of rain today.,What's the weather update for this weekend?,0
+Check the Weather,Tell me the chance of rain today.,Give me today's high and low temperatures.,1
+Check the Weather,Tell me the chance of rain today.,Should I wear sunglasses today?,1
+Check the Weather,Will it snow today?,Check the forecast for this evening.,1
+Check the Weather,Will it snow today?,Give me the expected temperature for today.,1
+Check the Weather,Will it snow today?,Tell me if it's stormy outside.,0
+Check the Weather,Will it snow today?,Check the air quality for me.,0
+Check the Weather,Will it snow today?,What's the weather update for this weekend?,1
+Check the Weather,Will it snow today?,Give me today's high and low temperatures.,0
+Check the Weather,Will it snow today?,Should I wear sunglasses today?,0
+Check the Weather,Check the forecast for this evening.,Give me the expected temperature for today.,0
+Check the Weather,Check the forecast for this evening.,Tell me if it's stormy outside.,0
+Check the Weather,Check the forecast for this evening.,Check the air quality for me.,0
+Check the Weather,Check the forecast for this evening.,What's the weather update for this weekend?,1
+Check the Weather,Check the forecast for this evening.,Give me today's high and low temperatures.,1
+Check the Weather,Check the forecast for this evening.,Should I wear sunglasses today?,0
+Check the Weather,Give me the expected temperature for today.,Tell me if it's stormy outside.,1
+Check the Weather,Give me the expected temperature for today.,Check the air quality for me.,0
+Check the Weather,Give me the expected temperature for today.,What's the weather update for this weekend?,0
+Check the Weather,Give me the expected temperature for today.,Give me today's high and low temperatures.,0
+Check the Weather,Give me the expected temperature for today.,Should I wear sunglasses today?,0
+Check the Weather,Tell me if it's stormy outside.,Check the air quality for me.,1
+Check the Weather,Tell me if it's stormy outside.,What's the weather update for this weekend?,1
+Check the Weather,Tell me if it's stormy outside.,Give me today's high and low temperatures.,0
+Check the Weather,Tell me if it's stormy outside.,Should I wear sunglasses today?,1
+Check the Weather,Check the air quality for me.,What's the weather update for this weekend?,1
+Check the Weather,Check the air quality for me.,Give me today's high and low temperatures.,1
+Check the Weather,Check the air quality for me.,Should I wear sunglasses today?,0
+Check the Weather,What's the weather update for this weekend?,Give me today's high and low temperatures.,1
+Check the Weather,What's the weather update for this weekend?,Should I wear sunglasses today?,0
+Check the Weather,Give me today's high and low temperatures.,Should I wear sunglasses today?,1
+Send a Message,Send a message to John.,Text John for me.,1
+Send a Message,Send a message to John.,Can you message John?,1
+Send a Message,Send a message to John.,Send a text to John saying hi.,1
+Send a Message,Send a message to John.,Tell John I’ll be there soon.,1
+Send a Message,Send a message to John.,Write a message to John.,1
+Send a Message,Send a message to John.,Send John a quick text.,0
+Send a Message,Send a message to John.,Let John know I’m on my way.,1
+Send a Message,Send a message to John.,Tell John I’ll call him later.,0
+Send a Message,Send a message to John.,Text John and ask if he's free.,0
+Send a Message,Send a message to John.,Message John with my location.,1
+Send a Message,Send a message to John.,Send a WhatsApp message to John.,0
+Send a Message,Send a message to John.,Tell John that I’m running late.,0
+Send a Message,Send a message to John.,Send a reminder message to John.,0
+Send a Message,Send a message to John.,Text John and say hello.,0
+Send a Message,Send a message to John.,Write a text message to John.,1
+Send a Message,Send a message to John.,Let John know I’ll meet him at 5.,0
+Send a Message,Send a message to John.,Message John to confirm our plans.,0
+Send a Message,Send a message to John.,Tell John I’ll text him later.,0
+Send a Message,Send a message to John.,Send a short text to John.,0
+Send a Message,Send a message to John.,Inform John that I’ve arrived.,0
+Send a Message,Send a message to John.,Message John and let him know I’m outside.,1
+Send a Message,Send a message to John.,Ask John if he received my email.,0
+Send a Message,Send a message to John.,Text John to check in with him.,0
+Send a Message,Send a message to John.,Send John a message asking how he's doing.,0
+Send a Message,Send a message to John.,Tell John to call me when he's free.,1
+Send a Message,Send a message to John.,Message John and ask about the meeting.,1
+Send a Message,Send a message to John.,Let John know I’ll be late.,1
+Send a Message,Send a message to John.,Send John a text with my ETA.,1
+Send a Message,Send a message to John.,Write a message to John and say thanks.,1
+Send a Message,Text John for me.,Can you message John?,1
+Send a Message,Text John for me.,Send a text to John saying hi.,0
+Send a Message,Text John for me.,Tell John I’ll be there soon.,0
+Send a Message,Text John for me.,Write a message to John.,1
+Send a Message,Text John for me.,Send John a quick text.,0
+Send a Message,Text John for me.,Let John know I’m on my way.,0
+Send a Message,Text John for me.,Tell John I’ll call him later.,0
+Send a Message,Text John for me.,Text John and ask if he's free.,0
+Send a Message,Text John for me.,Message John with my location.,0
+Send a Message,Text John for me.,Send a WhatsApp message to John.,0
+Send a Message,Text John for me.,Tell John that I’m running late.,0
+Send a Message,Text John for me.,Send a reminder message to John.,0
+Send a Message,Text John for me.,Text John and say hello.,1
+Send a Message,Text John for me.,Write a text message to John.,0
+Send a Message,Text John for me.,Let John know I’ll meet him at 5.,0
+Send a Message,Text John for me.,Message John to confirm our plans.,0
+Send a Message,Text John for me.,Tell John I’ll text him later.,0
+Send a Message,Text John for me.,Send a short text to John.,1
+Send a Message,Text John for me.,Inform John that I’ve arrived.,0
+Send a Message,Text John for me.,Message John and let him know I’m outside.,1
+Send a Message,Text John for me.,Ask John if he received my email.,1
+Send a Message,Text John for me.,Text John to check in with him.,0
+Send a Message,Text John for me.,Send John a message asking how he's doing.,1
+Send a Message,Text John for me.,Tell John to call me when he's free.,1
+Send a Message,Text John for me.,Message John and ask about the meeting.,0
+Send a Message,Text John for me.,Let John know I’ll be late.,1
+Send a Message,Text John for me.,Send John a text with my ETA.,1
+Send a Message,Text John for me.,Write a message to John and say thanks.,1
+Send a Message,Can you message John?,Send a text to John saying hi.,1
+Send a Message,Can you message John?,Tell John I’ll be there soon.,0
+Send a Message,Can you message John?,Write a message to John.,1
+Send a Message,Can you message John?,Send John a quick text.,1
+Send a Message,Can you message John?,Let John know I’m on my way.,0
+Send a Message,Can you message John?,Tell John I’ll call him later.,1
+Send a Message,Can you message John?,Text John and ask if he's free.,1
+Send a Message,Can you message John?,Message John with my location.,0
+Send a Message,Can you message John?,Send a WhatsApp message to John.,1
+Send a Message,Can you message John?,Tell John that I’m running late.,0
+Send a Message,Can you message John?,Send a reminder message to John.,1
+Send a Message,Can you message John?,Text John and say hello.,1
+Send a Message,Can you message John?,Write a text message to John.,1
+Send a Message,Can you message John?,Let John know I’ll meet him at 5.,0
+Send a Message,Can you message John?,Message John to confirm our plans.,1
+Send a Message,Can you message John?,Tell John I’ll text him later.,0
+Send a Message,Can you message John?,Send a short text to John.,1
+Send a Message,Can you message John?,Inform John that I’ve arrived.,1
+Send a Message,Can you message John?,Message John and let him know I’m outside.,0
+Send a Message,Can you message John?,Ask John if he received my email.,0
+Send a Message,Can you message John?,Text John to check in with him.,1
+Send a Message,Can you message John?,Send John a message asking how he's doing.,1
+Send a Message,Can you message John?,Tell John to call me when he's free.,0
+Send a Message,Can you message John?,Message John and ask about the meeting.,1
+Send a Message,Can you message John?,Let John know I’ll be late.,0
+Send a Message,Can you message John?,Send John a text with my ETA.,0
+Send a Message,Can you message John?,Write a message to John and say thanks.,0
+Send a Message,Send a text to John saying hi.,Tell John I’ll be there soon.,1
+Send a Message,Send a text to John saying hi.,Write a message to John.,0
+Send a Message,Send a text to John saying hi.,Send John a quick text.,0
+Send a Message,Send a text to John saying hi.,Let John know I’m on my way.,1
+Send a Message,Send a text to John saying hi.,Tell John I’ll call him later.,1
+Send a Message,Send a text to John saying hi.,Text John and ask if he's free.,1
+Send a Message,Send a text to John saying hi.,Message John with my location.,0
+Send a Message,Send a text to John saying hi.,Send a WhatsApp message to John.,0
+Send a Message,Send a text to John saying hi.,Tell John that I’m running late.,0
+Send a Message,Send a text to John saying hi.,Send a reminder message to John.,1
+Send a Message,Send a text to John saying hi.,Text John and say hello.,1
+Send a Message,Send a text to John saying hi.,Write a text message to John.,0
+Send a Message,Send a text to John saying hi.,Let John know I’ll meet him at 5.,1
+Send a Message,Send a text to John saying hi.,Message John to confirm our plans.,1
+Send a Message,Send a text to John saying hi.,Tell John I’ll text him later.,0
+Send a Message,Send a text to John saying hi.,Send a short text to John.,1
+Send a Message,Send a text to John saying hi.,Inform John that I’ve arrived.,1
+Send a Message,Send a text to John saying hi.,Message John and let him know I’m outside.,0
+Send a Message,Send a text to John saying hi.,Ask John if he received my email.,1
+Send a Message,Send a text to John saying hi.,Text John to check in with him.,0
+Send a Message,Send a text to John saying hi.,Send John a message asking how he's doing.,0
+Send a Message,Send a text to John saying hi.,Tell John to call me when he's free.,0
+Send a Message,Send a text to John saying hi.,Message John and ask about the meeting.,1
+Send a Message,Send a text to John saying hi.,Let John know I’ll be late.,0
+Send a Message,Send a text to John saying hi.,Send John a text with my ETA.,0
+Send a Message,Send a text to John saying hi.,Write a message to John and say thanks.,1
+Send a Message,Tell John I’ll be there soon.,Write a message to John.,1
+Send a Message,Tell John I’ll be there soon.,Send John a quick text.,0
+Send a Message,Tell John I’ll be there soon.,Let John know I’m on my way.,1
+Send a Message,Tell John I’ll be there soon.,Tell John I’ll call him later.,1
+Send a Message,Tell John I’ll be there soon.,Text John and ask if he's free.,0
+Send a Message,Tell John I’ll be there soon.,Message John with my location.,1
+Send a Message,Tell John I’ll be there soon.,Send a WhatsApp message to John.,1
+Send a Message,Tell John I’ll be there soon.,Tell John that I’m running late.,0
+Send a Message,Tell John I’ll be there soon.,Send a reminder message to John.,0
+Send a Message,Tell John I’ll be there soon.,Text John and say hello.,0
+Send a Message,Tell John I’ll be there soon.,Write a text message to John.,1
+Send a Message,Tell John I’ll be there soon.,Let John know I’ll meet him at 5.,0
+Send a Message,Tell John I’ll be there soon.,Message John to confirm our plans.,0
+Send a Message,Tell John I’ll be there soon.,Tell John I’ll text him later.,0
+Send a Message,Tell John I’ll be there soon.,Send a short text to John.,0
+Send a Message,Tell John I’ll be there soon.,Inform John that I’ve arrived.,1
+Send a Message,Tell John I’ll be there soon.,Message John and let him know I’m outside.,1
+Send a Message,Tell John I’ll be there soon.,Ask John if he received my email.,1
+Send a Message,Tell John I’ll be there soon.,Text John to check in with him.,0
+Send a Message,Tell John I’ll be there soon.,Send John a message asking how he's doing.,0
+Send a Message,Tell John I’ll be there soon.,Tell John to call me when he's free.,0
+Send a Message,Tell John I’ll be there soon.,Message John and ask about the meeting.,1
+Send a Message,Tell John I’ll be there soon.,Let John know I’ll be late.,0
+Send a Message,Tell John I’ll be there soon.,Send John a text with my ETA.,0
+Send a Message,Tell John I’ll be there soon.,Write a message to John and say thanks.,1
+Send a Message,Write a message to John.,Send John a quick text.,0
+Send a Message,Write a message to John.,Let John know I’m on my way.,0
+Send a Message,Write a message to John.,Tell John I’ll call him later.,0
+Send a Message,Write a message to John.,Text John and ask if he's free.,1
+Send a Message,Write a message to John.,Message John with my location.,0
+Send a Message,Write a message to John.,Send a WhatsApp message to John.,1
+Send a Message,Write a message to John.,Tell John that I’m running late.,0
+Send a Message,Write a message to John.,Send a reminder message to John.,0
+Send a Message,Write a message to John.,Text John and say hello.,0
+Send a Message,Write a message to John.,Write a text message to John.,0
+Send a Message,Write a message to John.,Let John know I’ll meet him at 5.,0
+Send a Message,Write a message to John.,Message John to confirm our plans.,0
+Send a Message,Write a message to John.,Tell John I’ll text him later.,1
+Send a Message,Write a message to John.,Send a short text to John.,1
+Send a Message,Write a message to John.,Inform John that I’ve arrived.,0
+Send a Message,Write a message to John.,Message John and let him know I’m outside.,0
+Send a Message,Write a message to John.,Ask John if he received my email.,1
+Send a Message,Write a message to John.,Text John to check in with him.,0
+Send a Message,Write a message to John.,Send John a message asking how he's doing.,1
+Send a Message,Write a message to John.,Tell John to call me when he's free.,0
+Send a Message,Write a message to John.,Message John and ask about the meeting.,1
+Send a Message,Write a message to John.,Let John know I’ll be late.,0
+Send a Message,Write a message to John.,Send John a text with my ETA.,1
+Send a Message,Write a message to John.,Write a message to John and say thanks.,0
+Send a Message,Send John a quick text.,Let John know I’m on my way.,0
+Send a Message,Send John a quick text.,Tell John I’ll call him later.,1
+Send a Message,Send John a quick text.,Text John and ask if he's free.,1
+Send a Message,Send John a quick text.,Message John with my location.,0
+Send a Message,Send John a quick text.,Send a WhatsApp message to John.,1
+Send a Message,Send John a quick text.,Tell John that I’m running late.,1
+Send a Message,Send John a quick text.,Send a reminder message to John.,0
+Send a Message,Send John a quick text.,Text John and say hello.,1
+Send a Message,Send John a quick text.,Write a text message to John.,0
+Send a Message,Send John a quick text.,Let John know I’ll meet him at 5.,1
+Send a Message,Send John a quick text.,Message John to confirm our plans.,1
+Send a Message,Send John a quick text.,Tell John I’ll text him later.,0
+Send a Message,Send John a quick text.,Send a short text to John.,1
+Send a Message,Send John a quick text.,Inform John that I’ve arrived.,1
+Send a Message,Send John a quick text.,Message John and let him know I’m outside.,0
+Send a Message,Send John a quick text.,Ask John if he received my email.,1
+Send a Message,Send John a quick text.,Text John to check in with him.,0
+Send a Message,Send John a quick text.,Send John a message asking how he's doing.,1
+Send a Message,Send John a quick text.,Tell John to call me when he's free.,0
+Send a Message,Send John a quick text.,Message John and ask about the meeting.,0
+Send a Message,Send John a quick text.,Let John know I’ll be late.,1
+Send a Message,Send John a quick text.,Send John a text with my ETA.,0
+Send a Message,Send John a quick text.,Write a message to John and say thanks.,1
+Send a Message,Let John know I’m on my way.,Tell John I’ll call him later.,1
+Send a Message,Let John know I’m on my way.,Text John and ask if he's free.,1
+Send a Message,Let John know I’m on my way.,Message John with my location.,0
+Send a Message,Let John know I’m on my way.,Send a WhatsApp message to John.,0
+Send a Message,Let John know I’m on my way.,Tell John that I’m running late.,1
+Send a Message,Let John know I’m on my way.,Send a reminder message to John.,1
+Send a Message,Let John know I’m on my way.,Text John and say hello.,1
+Send a Message,Let John know I’m on my way.,Write a text message to John.,1
+Send a Message,Let John know I’m on my way.,Let John know I’ll meet him at 5.,0
+Send a Message,Let John know I’m on my way.,Message John to confirm our plans.,1
+Send a Message,Let John know I’m on my way.,Tell John I’ll text him later.,1
+Send a Message,Let John know I’m on my way.,Send a short text to John.,1
+Send a Message,Let John know I’m on my way.,Inform John that I’ve arrived.,0
+Send a Message,Let John know I’m on my way.,Message John and let him know I’m outside.,1
+Send a Message,Let John know I’m on my way.,Ask John if he received my email.,0
+Send a Message,Let John know I’m on my way.,Text John to check in with him.,0
+Send a Message,Let John know I’m on my way.,Send John a message asking how he's doing.,1
+Send a Message,Let John know I’m on my way.,Tell John to call me when he's free.,1
+Send a Message,Let John know I’m on my way.,Message John and ask about the meeting.,0
+Send a Message,Let John know I’m on my way.,Let John know I’ll be late.,0
+Send a Message,Let John know I’m on my way.,Send John a text with my ETA.,0
+Send a Message,Let John know I’m on my way.,Write a message to John and say thanks.,1
+Send a Message,Tell John I’ll call him later.,Text John and ask if he's free.,1
+Send a Message,Tell John I’ll call him later.,Message John with my location.,1
+Send a Message,Tell John I’ll call him later.,Send a WhatsApp message to John.,0
+Send a Message,Tell John I’ll call him later.,Tell John that I’m running late.,0
+Send a Message,Tell John I’ll call him later.,Send a reminder message to John.,1
+Send a Message,Tell John I’ll call him later.,Text John and say hello.,1
+Send a Message,Tell John I’ll call him later.,Write a text message to John.,0
+Send a Message,Tell John I’ll call him later.,Let John know I’ll meet him at 5.,1
+Send a Message,Tell John I’ll call him later.,Message John to confirm our plans.,0
+Send a Message,Tell John I’ll call him later.,Tell John I’ll text him later.,1
+Send a Message,Tell John I’ll call him later.,Send a short text to John.,1
+Send a Message,Tell John I’ll call him later.,Inform John that I’ve arrived.,0
+Send a Message,Tell John I’ll call him later.,Message John and let him know I’m outside.,0
+Send a Message,Tell John I’ll call him later.,Ask John if he received my email.,0
+Send a Message,Tell John I’ll call him later.,Text John to check in with him.,0
+Send a Message,Tell John I’ll call him later.,Send John a message asking how he's doing.,0
+Send a Message,Tell John I’ll call him later.,Tell John to call me when he's free.,0
+Send a Message,Tell John I’ll call him later.,Message John and ask about the meeting.,1
+Send a Message,Tell John I’ll call him later.,Let John know I’ll be late.,1
+Send a Message,Tell John I’ll call him later.,Send John a text with my ETA.,1
+Send a Message,Tell John I’ll call him later.,Write a message to John and say thanks.,1
+Send a Message,Text John and ask if he's free.,Message John with my location.,1
+Send a Message,Text John and ask if he's free.,Send a WhatsApp message to John.,1
+Send a Message,Text John and ask if he's free.,Tell John that I’m running late.,0
+Send a Message,Text John and ask if he's free.,Send a reminder message to John.,1
+Send a Message,Text John and ask if he's free.,Text John and say hello.,0
+Send a Message,Text John and ask if he's free.,Write a text message to John.,1
+Send a Message,Text John and ask if he's free.,Let John know I’ll meet him at 5.,0
+Send a Message,Text John and ask if he's free.,Message John to confirm our plans.,0
+Send a Message,Text John and ask if he's free.,Tell John I’ll text him later.,1
+Send a Message,Text John and ask if he's free.,Send a short text to John.,1
+Send a Message,Text John and ask if he's free.,Inform John that I’ve arrived.,0
+Send a Message,Text John and ask if he's free.,Message John and let him know I’m outside.,0
+Send a Message,Text John and ask if he's free.,Ask John if he received my email.,1
+Send a Message,Text John and ask if he's free.,Text John to check in with him.,0
+Send a Message,Text John and ask if he's free.,Send John a message asking how he's doing.,0
+Send a Message,Text John and ask if he's free.,Tell John to call me when he's free.,1
+Send a Message,Text John and ask if he's free.,Message John and ask about the meeting.,1
+Send a Message,Text John and ask if he's free.,Let John know I’ll be late.,0
+Send a Message,Text John and ask if he's free.,Send John a text with my ETA.,0
+Send a Message,Text John and ask if he's free.,Write a message to John and say thanks.,1
+Send a Message,Message John with my location.,Send a WhatsApp message to John.,0
+Send a Message,Message John with my location.,Tell John that I’m running late.,1
+Send a Message,Message John with my location.,Send a reminder message to John.,1
+Send a Message,Message John with my location.,Text John and say hello.,0
+Send a Message,Message John with my location.,Write a text message to John.,0
+Send a Message,Message John with my location.,Let John know I’ll meet him at 5.,0
+Send a Message,Message John with my location.,Message John to confirm our plans.,0
+Send a Message,Message John with my location.,Tell John I’ll text him later.,0
+Send a Message,Message John with my location.,Send a short text to John.,1
+Send a Message,Message John with my location.,Inform John that I’ve arrived.,1
+Send a Message,Message John with my location.,Message John and let him know I’m outside.,1
+Send a Message,Message John with my location.,Ask John if he received my email.,1
+Send a Message,Message John with my location.,Text John to check in with him.,0
+Send a Message,Message John with my location.,Send John a message asking how he's doing.,1
+Send a Message,Message John with my location.,Tell John to call me when he's free.,0
+Send a Message,Message John with my location.,Message John and ask about the meeting.,1
+Send a Message,Message John with my location.,Let John know I’ll be late.,0
+Send a Message,Message John with my location.,Send John a text with my ETA.,0
+Send a Message,Message John with my location.,Write a message to John and say thanks.,0
+Send a Message,Send a WhatsApp message to John.,Tell John that I’m running late.,1
+Send a Message,Send a WhatsApp message to John.,Send a reminder message to John.,0
+Send a Message,Send a WhatsApp message to John.,Text John and say hello.,1
+Send a Message,Send a WhatsApp message to John.,Write a text message to John.,1
+Send a Message,Send a WhatsApp message to John.,Let John know I’ll meet him at 5.,1
+Send a Message,Send a WhatsApp message to John.,Message John to confirm our plans.,1
+Send a Message,Send a WhatsApp message to John.,Tell John I’ll text him later.,1
+Send a Message,Send a WhatsApp message to John.,Send a short text to John.,0
+Send a Message,Send a WhatsApp message to John.,Inform John that I’ve arrived.,0
+Send a Message,Send a WhatsApp message to John.,Message John and let him know I’m outside.,0
+Send a Message,Send a WhatsApp message to John.,Ask John if he received my email.,1
+Send a Message,Send a WhatsApp message to John.,Text John to check in with him.,0
+Send a Message,Send a WhatsApp message to John.,Send John a message asking how he's doing.,0
+Send a Message,Send a WhatsApp message to John.,Tell John to call me when he's free.,1
+Send a Message,Send a WhatsApp message to John.,Message John and ask about the meeting.,0
+Send a Message,Send a WhatsApp message to John.,Let John know I’ll be late.,0
+Send a Message,Send a WhatsApp message to John.,Send John a text with my ETA.,0
+Send a Message,Send a WhatsApp message to John.,Write a message to John and say thanks.,0
+Send a Message,Tell John that I’m running late.,Send a reminder message to John.,0
+Send a Message,Tell John that I’m running late.,Text John and say hello.,0
+Send a Message,Tell John that I’m running late.,Write a text message to John.,0
+Send a Message,Tell John that I’m running late.,Let John know I’ll meet him at 5.,0
+Send a Message,Tell John that I’m running late.,Message John to confirm our plans.,1
+Send a Message,Tell John that I’m running late.,Tell John I’ll text him later.,1
+Send a Message,Tell John that I’m running late.,Send a short text to John.,0
+Send a Message,Tell John that I’m running late.,Inform John that I’ve arrived.,0
+Send a Message,Tell John that I’m running late.,Message John and let him know I’m outside.,1
+Send a Message,Tell John that I’m running late.,Ask John if he received my email.,0
+Send a Message,Tell John that I’m running late.,Text John to check in with him.,0
+Send a Message,Tell John that I’m running late.,Send John a message asking how he's doing.,1
+Send a Message,Tell John that I’m running late.,Tell John to call me when he's free.,0
+Send a Message,Tell John that I’m running late.,Message John and ask about the meeting.,1
+Send a Message,Tell John that I’m running late.,Let John know I’ll be late.,1
+Send a Message,Tell John that I’m running late.,Send John a text with my ETA.,1
+Send a Message,Tell John that I’m running late.,Write a message to John and say thanks.,1
+Send a Message,Send a reminder message to John.,Text John and say hello.,0
+Send a Message,Send a reminder message to John.,Write a text message to John.,0
+Send a Message,Send a reminder message to John.,Let John know I’ll meet him at 5.,0
+Send a Message,Send a reminder message to John.,Message John to confirm our plans.,0
+Send a Message,Send a reminder message to John.,Tell John I’ll text him later.,1
+Send a Message,Send a reminder message to John.,Send a short text to John.,1
+Send a Message,Send a reminder message to John.,Inform John that I’ve arrived.,0
+Send a Message,Send a reminder message to John.,Message John and let him know I’m outside.,0
+Send a Message,Send a reminder message to John.,Ask John if he received my email.,1
+Send a Message,Send a reminder message to John.,Text John to check in with him.,0
+Send a Message,Send a reminder message to John.,Send John a message asking how he's doing.,0
+Send a Message,Send a reminder message to John.,Tell John to call me when he's free.,1
+Send a Message,Send a reminder message to John.,Message John and ask about the meeting.,0
+Send a Message,Send a reminder message to John.,Let John know I’ll be late.,1
+Send a Message,Send a reminder message to John.,Send John a text with my ETA.,0
+Send a Message,Send a reminder message to John.,Write a message to John and say thanks.,1
+Send a Message,Text John and say hello.,Write a text message to John.,0
+Send a Message,Text John and say hello.,Let John know I’ll meet him at 5.,0
+Send a Message,Text John and say hello.,Message John to confirm our plans.,1
+Send a Message,Text John and say hello.,Tell John I’ll text him later.,1
+Send a Message,Text John and say hello.,Send a short text to John.,0
+Send a Message,Text John and say hello.,Inform John that I’ve arrived.,0
+Send a Message,Text John and say hello.,Message John and let him know I’m outside.,1
+Send a Message,Text John and say hello.,Ask John if he received my email.,1
+Send a Message,Text John and say hello.,Text John to check in with him.,1
+Send a Message,Text John and say hello.,Send John a message asking how he's doing.,1
+Send a Message,Text John and say hello.,Tell John to call me when he's free.,1
+Send a Message,Text John and say hello.,Message John and ask about the meeting.,0
+Send a Message,Text John and say hello.,Let John know I’ll be late.,1
+Send a Message,Text John and say hello.,Send John a text with my ETA.,0
+Send a Message,Text John and say hello.,Write a message to John and say thanks.,0
+Send a Message,Write a text message to John.,Let John know I’ll meet him at 5.,1
+Send a Message,Write a text message to John.,Message John to confirm our plans.,1
+Send a Message,Write a text message to John.,Tell John I’ll text him later.,0
+Send a Message,Write a text message to John.,Send a short text to John.,1
+Send a Message,Write a text message to John.,Inform John that I’ve arrived.,1
+Send a Message,Write a text message to John.,Message John and let him know I’m outside.,1
+Send a Message,Write a text message to John.,Ask John if he received my email.,0
+Send a Message,Write a text message to John.,Text John to check in with him.,0
+Send a Message,Write a text message to John.,Send John a message asking how he's doing.,1
+Send a Message,Write a text message to John.,Tell John to call me when he's free.,0
+Send a Message,Write a text message to John.,Message John and ask about the meeting.,1
+Send a Message,Write a text message to John.,Let John know I’ll be late.,0
+Send a Message,Write a text message to John.,Send John a text with my ETA.,0
+Send a Message,Write a text message to John.,Write a message to John and say thanks.,1
+Send a Message,Let John know I’ll meet him at 5.,Message John to confirm our plans.,1
+Send a Message,Let John know I’ll meet him at 5.,Tell John I’ll text him later.,0
+Send a Message,Let John know I’ll meet him at 5.,Send a short text to John.,1
+Send a Message,Let John know I’ll meet him at 5.,Inform John that I’ve arrived.,0
+Send a Message,Let John know I’ll meet him at 5.,Message John and let him know I’m outside.,1
+Send a Message,Let John know I’ll meet him at 5.,Ask John if he received my email.,1
+Send a Message,Let John know I’ll meet him at 5.,Text John to check in with him.,0
+Send a Message,Let John know I’ll meet him at 5.,Send John a message asking how he's doing.,1
+Send a Message,Let John know I’ll meet him at 5.,Tell John to call me when he's free.,1
+Send a Message,Let John know I’ll meet him at 5.,Message John and ask about the meeting.,0
+Send a Message,Let John know I’ll meet him at 5.,Let John know I’ll be late.,1
+Send a Message,Let John know I’ll meet him at 5.,Send John a text with my ETA.,1
+Send a Message,Let John know I’ll meet him at 5.,Write a message to John and say thanks.,1
+Send a Message,Message John to confirm our plans.,Tell John I’ll text him later.,0
+Send a Message,Message John to confirm our plans.,Send a short text to John.,1
+Send a Message,Message John to confirm our plans.,Inform John that I’ve arrived.,1
+Send a Message,Message John to confirm our plans.,Message John and let him know I’m outside.,1
+Send a Message,Message John to confirm our plans.,Ask John if he received my email.,0
+Send a Message,Message John to confirm our plans.,Text John to check in with him.,1
+Send a Message,Message John to confirm our plans.,Send John a message asking how he's doing.,0
+Send a Message,Message John to confirm our plans.,Tell John to call me when he's free.,1
+Send a Message,Message John to confirm our plans.,Message John and ask about the meeting.,0
+Send a Message,Message John to confirm our plans.,Let John know I’ll be late.,0
+Send a Message,Message John to confirm our plans.,Send John a text with my ETA.,0
+Send a Message,Message John to confirm our plans.,Write a message to John and say thanks.,0
+Send a Message,Tell John I’ll text him later.,Send a short text to John.,0
+Send a Message,Tell John I’ll text him later.,Inform John that I’ve arrived.,0
+Send a Message,Tell John I’ll text him later.,Message John and let him know I’m outside.,1
+Send a Message,Tell John I’ll text him later.,Ask John if he received my email.,1
+Send a Message,Tell John I’ll text him later.,Text John to check in with him.,1
+Send a Message,Tell John I’ll text him later.,Send John a message asking how he's doing.,0
+Send a Message,Tell John I’ll text him later.,Tell John to call me when he's free.,1
+Send a Message,Tell John I’ll text him later.,Message John and ask about the meeting.,1
+Send a Message,Tell John I’ll text him later.,Let John know I’ll be late.,0
+Send a Message,Tell John I’ll text him later.,Send John a text with my ETA.,1
+Send a Message,Tell John I’ll text him later.,Write a message to John and say thanks.,0
+Send a Message,Send a short text to John.,Inform John that I’ve arrived.,1
+Send a Message,Send a short text to John.,Message John and let him know I’m outside.,0
+Send a Message,Send a short text to John.,Ask John if he received my email.,1
+Send a Message,Send a short text to John.,Text John to check in with him.,0
+Send a Message,Send a short text to John.,Send John a message asking how he's doing.,1
+Send a Message,Send a short text to John.,Tell John to call me when he's free.,0
+Send a Message,Send a short text to John.,Message John and ask about the meeting.,1
+Send a Message,Send a short text to John.,Let John know I’ll be late.,1
+Send a Message,Send a short text to John.,Send John a text with my ETA.,0
+Send a Message,Send a short text to John.,Write a message to John and say thanks.,1
+Send a Message,Inform John that I’ve arrived.,Message John and let him know I’m outside.,0
+Send a Message,Inform John that I’ve arrived.,Ask John if he received my email.,0
+Send a Message,Inform John that I’ve arrived.,Text John to check in with him.,0
+Send a Message,Inform John that I’ve arrived.,Send John a message asking how he's doing.,0
+Send a Message,Inform John that I’ve arrived.,Tell John to call me when he's free.,1
+Send a Message,Inform John that I’ve arrived.,Message John and ask about the meeting.,0
+Send a Message,Inform John that I’ve arrived.,Let John know I’ll be late.,0
+Send a Message,Inform John that I’ve arrived.,Send John a text with my ETA.,0
+Send a Message,Inform John that I’ve arrived.,Write a message to John and say thanks.,0
+Send a Message,Message John and let him know I’m outside.,Ask John if he received my email.,0
+Send a Message,Message John and let him know I’m outside.,Text John to check in with him.,1
+Send a Message,Message John and let him know I’m outside.,Send John a message asking how he's doing.,0
+Send a Message,Message John and let him know I’m outside.,Tell John to call me when he's free.,0
+Send a Message,Message John and let him know I’m outside.,Message John and ask about the meeting.,0
+Send a Message,Message John and let him know I’m outside.,Let John know I’ll be late.,0
+Send a Message,Message John and let him know I’m outside.,Send John a text with my ETA.,1
+Send a Message,Message John and let him know I’m outside.,Write a message to John and say thanks.,0
+Send a Message,Ask John if he received my email.,Text John to check in with him.,1
+Send a Message,Ask John if he received my email.,Send John a message asking how he's doing.,1
+Send a Message,Ask John if he received my email.,Tell John to call me when he's free.,0
+Send a Message,Ask John if he received my email.,Message John and ask about the meeting.,0
+Send a Message,Ask John if he received my email.,Let John know I’ll be late.,0
+Send a Message,Ask John if he received my email.,Send John a text with my ETA.,1
+Send a Message,Ask John if he received my email.,Write a message to John and say thanks.,1
+Send a Message,Text John to check in with him.,Send John a message asking how he's doing.,1
+Send a Message,Text John to check in with him.,Tell John to call me when he's free.,0
+Send a Message,Text John to check in with him.,Message John and ask about the meeting.,1
+Send a Message,Text John to check in with him.,Let John know I’ll be late.,0
+Send a Message,Text John to check in with him.,Send John a text with my ETA.,1
+Send a Message,Text John to check in with him.,Write a message to John and say thanks.,0
+Send a Message,Send John a message asking how he's doing.,Tell John to call me when he's free.,1
+Send a Message,Send John a message asking how he's doing.,Message John and ask about the meeting.,1
+Send a Message,Send John a message asking how he's doing.,Let John know I’ll be late.,1
+Send a Message,Send John a message asking how he's doing.,Send John a text with my ETA.,1
+Send a Message,Send John a message asking how he's doing.,Write a message to John and say thanks.,0
+Send a Message,Tell John to call me when he's free.,Message John and ask about the meeting.,0
+Send a Message,Tell John to call me when he's free.,Let John know I’ll be late.,0
+Send a Message,Tell John to call me when he's free.,Send John a text with my ETA.,0
+Send a Message,Tell John to call me when he's free.,Write a message to John and say thanks.,1
+Send a Message,Message John and ask about the meeting.,Let John know I’ll be late.,1
+Send a Message,Message John and ask about the meeting.,Send John a text with my ETA.,0
+Send a Message,Message John and ask about the meeting.,Write a message to John and say thanks.,1
+Send a Message,Let John know I’ll be late.,Send John a text with my ETA.,0
+Send a Message,Let John know I’ll be late.,Write a message to John and say thanks.,0
+Send a Message,Send John a text with my ETA.,Write a message to John and say thanks.,0
+Turn on the Lights,Turn on the lights in the living room.,Can you switch on the lights?,0
+Turn on the Lights,Turn on the lights in the living room.,Illuminate the living room.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn on the lights now.,1
+Turn on the Lights,Turn on the lights in the living room.,Enable the lights in this room.,1
+Turn on the Lights,Turn on the lights in the living room.,Switch on the ceiling light.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn on all the lights.,0
+Turn on the Lights,Turn on the lights in the living room.,Can you brighten the room?,1
+Turn on the Lights,Turn on the lights in the living room.,Activate the lights here.,0
+Turn on the Lights,Turn on the lights in the living room.,Power on the lights.,0
+Turn on the Lights,Turn on the lights in the living room.,Make the room brighter.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn up the lights.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn on the bedroom lights.,1
+Turn on the Lights,Turn on the lights in the living room.,Can you light up the space?,1
+Turn on the Lights,Turn on the lights in the living room.,Enable the lighting in the house.,1
+Turn on the Lights,Turn on the lights in the living room.,Turn on the hallway light.,0
+Turn on the Lights,Turn on the lights in the living room.,Switch on the LED lights.,0
+Turn on the Lights,Turn on the lights in the living room.,Light up the kitchen area.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn on the lamp.,0
+Turn on the Lights,Turn on the lights in the living room.,Can you activate the living room lights?,1
+Turn on the Lights,Turn on the lights in the living room.,Increase the brightness in the room.,1
+Turn on the Lights,Turn on the lights in the living room.,Illuminate the house.,1
+Turn on the Lights,Turn on the lights in the living room.,Turn on the study room lights.,1
+Turn on the Lights,Turn on the lights in the living room.,Switch on the night light.,0
+Turn on the Lights,Turn on the lights in the living room.,Enable the wall lamps.,0
+Turn on the Lights,Turn on the lights in the living room.,Make the space well-lit.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn on the chandelier.,0
+Turn on the Lights,Turn on the lights in the living room.,Activate the smart bulbs.,1
+Turn on the Lights,Turn on the lights in the living room.,Switch on the garden lights.,0
+Turn on the Lights,Turn on the lights in the living room.,Turn on all indoor lights.,1
+Turn on the Lights,Can you switch on the lights?,Illuminate the living room.,1
+Turn on the Lights,Can you switch on the lights?,Turn on the lights now.,0
+Turn on the Lights,Can you switch on the lights?,Enable the lights in this room.,0
+Turn on the Lights,Can you switch on the lights?,Switch on the ceiling light.,1
+Turn on the Lights,Can you switch on the lights?,Turn on all the lights.,1
+Turn on the Lights,Can you switch on the lights?,Can you brighten the room?,1
+Turn on the Lights,Can you switch on the lights?,Activate the lights here.,0
+Turn on the Lights,Can you switch on the lights?,Power on the lights.,1
+Turn on the Lights,Can you switch on the lights?,Make the room brighter.,1
+Turn on the Lights,Can you switch on the lights?,Turn up the lights.,1
+Turn on the Lights,Can you switch on the lights?,Turn on the bedroom lights.,1
+Turn on the Lights,Can you switch on the lights?,Can you light up the space?,0
+Turn on the Lights,Can you switch on the lights?,Enable the lighting in the house.,0
+Turn on the Lights,Can you switch on the lights?,Turn on the hallway light.,0
+Turn on the Lights,Can you switch on the lights?,Switch on the LED lights.,0
+Turn on the Lights,Can you switch on the lights?,Light up the kitchen area.,1
+Turn on the Lights,Can you switch on the lights?,Turn on the lamp.,1
+Turn on the Lights,Can you switch on the lights?,Can you activate the living room lights?,1
+Turn on the Lights,Can you switch on the lights?,Increase the brightness in the room.,1
+Turn on the Lights,Can you switch on the lights?,Illuminate the house.,0
+Turn on the Lights,Can you switch on the lights?,Turn on the study room lights.,0
+Turn on the Lights,Can you switch on the lights?,Switch on the night light.,0
+Turn on the Lights,Can you switch on the lights?,Enable the wall lamps.,0
+Turn on the Lights,Can you switch on the lights?,Make the space well-lit.,1
+Turn on the Lights,Can you switch on the lights?,Turn on the chandelier.,0
+Turn on the Lights,Can you switch on the lights?,Activate the smart bulbs.,0
+Turn on the Lights,Can you switch on the lights?,Switch on the garden lights.,0
+Turn on the Lights,Can you switch on the lights?,Turn on all indoor lights.,0
+Turn on the Lights,Illuminate the living room.,Turn on the lights now.,0
+Turn on the Lights,Illuminate the living room.,Enable the lights in this room.,0
+Turn on the Lights,Illuminate the living room.,Switch on the ceiling light.,0
+Turn on the Lights,Illuminate the living room.,Turn on all the lights.,1
+Turn on the Lights,Illuminate the living room.,Can you brighten the room?,1
+Turn on the Lights,Illuminate the living room.,Activate the lights here.,0
+Turn on the Lights,Illuminate the living room.,Power on the lights.,0
+Turn on the Lights,Illuminate the living room.,Make the room brighter.,1
+Turn on the Lights,Illuminate the living room.,Turn up the lights.,0
+Turn on the Lights,Illuminate the living room.,Turn on the bedroom lights.,1
+Turn on the Lights,Illuminate the living room.,Can you light up the space?,1
+Turn on the Lights,Illuminate the living room.,Enable the lighting in the house.,0
+Turn on the Lights,Illuminate the living room.,Turn on the hallway light.,1
+Turn on the Lights,Illuminate the living room.,Switch on the LED lights.,0
+Turn on the Lights,Illuminate the living room.,Light up the kitchen area.,1
+Turn on the Lights,Illuminate the living room.,Turn on the lamp.,0
+Turn on the Lights,Illuminate the living room.,Can you activate the living room lights?,0
+Turn on the Lights,Illuminate the living room.,Increase the brightness in the room.,0
+Turn on the Lights,Illuminate the living room.,Illuminate the house.,0
+Turn on the Lights,Illuminate the living room.,Turn on the study room lights.,1
+Turn on the Lights,Illuminate the living room.,Switch on the night light.,0
+Turn on the Lights,Illuminate the living room.,Enable the wall lamps.,1
+Turn on the Lights,Illuminate the living room.,Make the space well-lit.,1
+Turn on the Lights,Illuminate the living room.,Turn on the chandelier.,0
+Turn on the Lights,Illuminate the living room.,Activate the smart bulbs.,0
+Turn on the Lights,Illuminate the living room.,Switch on the garden lights.,0
+Turn on the Lights,Illuminate the living room.,Turn on all indoor lights.,1
+Turn on the Lights,Turn on the lights now.,Enable the lights in this room.,1
+Turn on the Lights,Turn on the lights now.,Switch on the ceiling light.,1
+Turn on the Lights,Turn on the lights now.,Turn on all the lights.,1
+Turn on the Lights,Turn on the lights now.,Can you brighten the room?,1
+Turn on the Lights,Turn on the lights now.,Activate the lights here.,1
+Turn on the Lights,Turn on the lights now.,Power on the lights.,0
+Turn on the Lights,Turn on the lights now.,Make the room brighter.,0
+Turn on the Lights,Turn on the lights now.,Turn up the lights.,1
+Turn on the Lights,Turn on the lights now.,Turn on the bedroom lights.,0
+Turn on the Lights,Turn on the lights now.,Can you light up the space?,0
+Turn on the Lights,Turn on the lights now.,Enable the lighting in the house.,0
+Turn on the Lights,Turn on the lights now.,Turn on the hallway light.,1
+Turn on the Lights,Turn on the lights now.,Switch on the LED lights.,0
+Turn on the Lights,Turn on the lights now.,Light up the kitchen area.,0
+Turn on the Lights,Turn on the lights now.,Turn on the lamp.,0
+Turn on the Lights,Turn on the lights now.,Can you activate the living room lights?,1
+Turn on the Lights,Turn on the lights now.,Increase the brightness in the room.,0
+Turn on the Lights,Turn on the lights now.,Illuminate the house.,1
+Turn on the Lights,Turn on the lights now.,Turn on the study room lights.,0
+Turn on the Lights,Turn on the lights now.,Switch on the night light.,0
+Turn on the Lights,Turn on the lights now.,Enable the wall lamps.,0
+Turn on the Lights,Turn on the lights now.,Make the space well-lit.,0
+Turn on the Lights,Turn on the lights now.,Turn on the chandelier.,0
+Turn on the Lights,Turn on the lights now.,Activate the smart bulbs.,1
+Turn on the Lights,Turn on the lights now.,Switch on the garden lights.,0
+Turn on the Lights,Turn on the lights now.,Turn on all indoor lights.,0
+Turn on the Lights,Enable the lights in this room.,Switch on the ceiling light.,1
+Turn on the Lights,Enable the lights in this room.,Turn on all the lights.,1
+Turn on the Lights,Enable the lights in this room.,Can you brighten the room?,1
+Turn on the Lights,Enable the lights in this room.,Activate the lights here.,1
+Turn on the Lights,Enable the lights in this room.,Power on the lights.,1
+Turn on the Lights,Enable the lights in this room.,Make the room brighter.,0
+Turn on the Lights,Enable the lights in this room.,Turn up the lights.,1
+Turn on the Lights,Enable the lights in this room.,Turn on the bedroom lights.,1
+Turn on the Lights,Enable the lights in this room.,Can you light up the space?,1
+Turn on the Lights,Enable the lights in this room.,Enable the lighting in the house.,0
+Turn on the Lights,Enable the lights in this room.,Turn on the hallway light.,0
+Turn on the Lights,Enable the lights in this room.,Switch on the LED lights.,0
+Turn on the Lights,Enable the lights in this room.,Light up the kitchen area.,0
+Turn on the Lights,Enable the lights in this room.,Turn on the lamp.,0
+Turn on the Lights,Enable the lights in this room.,Can you activate the living room lights?,1
+Turn on the Lights,Enable the lights in this room.,Increase the brightness in the room.,0
+Turn on the Lights,Enable the lights in this room.,Illuminate the house.,1
+Turn on the Lights,Enable the lights in this room.,Turn on the study room lights.,1
+Turn on the Lights,Enable the lights in this room.,Switch on the night light.,1
+Turn on the Lights,Enable the lights in this room.,Enable the wall lamps.,0
+Turn on the Lights,Enable the lights in this room.,Make the space well-lit.,1
+Turn on the Lights,Enable the lights in this room.,Turn on the chandelier.,1
+Turn on the Lights,Enable the lights in this room.,Activate the smart bulbs.,0
+Turn on the Lights,Enable the lights in this room.,Switch on the garden lights.,1
+Turn on the Lights,Enable the lights in this room.,Turn on all indoor lights.,1
+Turn on the Lights,Switch on the ceiling light.,Turn on all the lights.,1
+Turn on the Lights,Switch on the ceiling light.,Can you brighten the room?,0
+Turn on the Lights,Switch on the ceiling light.,Activate the lights here.,0
+Turn on the Lights,Switch on the ceiling light.,Power on the lights.,0
+Turn on the Lights,Switch on the ceiling light.,Make the room brighter.,0
+Turn on the Lights,Switch on the ceiling light.,Turn up the lights.,1
+Turn on the Lights,Switch on the ceiling light.,Turn on the bedroom lights.,0
+Turn on the Lights,Switch on the ceiling light.,Can you light up the space?,0
+Turn on the Lights,Switch on the ceiling light.,Enable the lighting in the house.,1
+Turn on the Lights,Switch on the ceiling light.,Turn on the hallway light.,0
+Turn on the Lights,Switch on the ceiling light.,Switch on the LED lights.,0
+Turn on the Lights,Switch on the ceiling light.,Light up the kitchen area.,1
+Turn on the Lights,Switch on the ceiling light.,Turn on the lamp.,0
+Turn on the Lights,Switch on the ceiling light.,Can you activate the living room lights?,0
+Turn on the Lights,Switch on the ceiling light.,Increase the brightness in the room.,1
+Turn on the Lights,Switch on the ceiling light.,Illuminate the house.,0
+Turn on the Lights,Switch on the ceiling light.,Turn on the study room lights.,1
+Turn on the Lights,Switch on the ceiling light.,Switch on the night light.,0
+Turn on the Lights,Switch on the ceiling light.,Enable the wall lamps.,0
+Turn on the Lights,Switch on the ceiling light.,Make the space well-lit.,0
+Turn on the Lights,Switch on the ceiling light.,Turn on the chandelier.,1
+Turn on the Lights,Switch on the ceiling light.,Activate the smart bulbs.,1
+Turn on the Lights,Switch on the ceiling light.,Switch on the garden lights.,0
+Turn on the Lights,Switch on the ceiling light.,Turn on all indoor lights.,0
+Turn on the Lights,Turn on all the lights.,Can you brighten the room?,0
+Turn on the Lights,Turn on all the lights.,Activate the lights here.,1
+Turn on the Lights,Turn on all the lights.,Power on the lights.,1
+Turn on the Lights,Turn on all the lights.,Make the room brighter.,0
+Turn on the Lights,Turn on all the lights.,Turn up the lights.,0
+Turn on the Lights,Turn on all the lights.,Turn on the bedroom lights.,0
+Turn on the Lights,Turn on all the lights.,Can you light up the space?,0
+Turn on the Lights,Turn on all the lights.,Enable the lighting in the house.,1
+Turn on the Lights,Turn on all the lights.,Turn on the hallway light.,0
+Turn on the Lights,Turn on all the lights.,Switch on the LED lights.,1
+Turn on the Lights,Turn on all the lights.,Light up the kitchen area.,0
+Turn on the Lights,Turn on all the lights.,Turn on the lamp.,1
+Turn on the Lights,Turn on all the lights.,Can you activate the living room lights?,1
+Turn on the Lights,Turn on all the lights.,Increase the brightness in the room.,0
+Turn on the Lights,Turn on all the lights.,Illuminate the house.,1
+Turn on the Lights,Turn on all the lights.,Turn on the study room lights.,0
+Turn on the Lights,Turn on all the lights.,Switch on the night light.,0
+Turn on the Lights,Turn on all the lights.,Enable the wall lamps.,0
+Turn on the Lights,Turn on all the lights.,Make the space well-lit.,0
+Turn on the Lights,Turn on all the lights.,Turn on the chandelier.,1
+Turn on the Lights,Turn on all the lights.,Activate the smart bulbs.,0
+Turn on the Lights,Turn on all the lights.,Switch on the garden lights.,1
+Turn on the Lights,Turn on all the lights.,Turn on all indoor lights.,1
+Turn on the Lights,Can you brighten the room?,Activate the lights here.,0
+Turn on the Lights,Can you brighten the room?,Power on the lights.,1
+Turn on the Lights,Can you brighten the room?,Make the room brighter.,0
+Turn on the Lights,Can you brighten the room?,Turn up the lights.,0
+Turn on the Lights,Can you brighten the room?,Turn on the bedroom lights.,1
+Turn on the Lights,Can you brighten the room?,Can you light up the space?,1
+Turn on the Lights,Can you brighten the room?,Enable the lighting in the house.,1
+Turn on the Lights,Can you brighten the room?,Turn on the hallway light.,1
+Turn on the Lights,Can you brighten the room?,Switch on the LED lights.,1
+Turn on the Lights,Can you brighten the room?,Light up the kitchen area.,0
+Turn on the Lights,Can you brighten the room?,Turn on the lamp.,0
+Turn on the Lights,Can you brighten the room?,Can you activate the living room lights?,0
+Turn on the Lights,Can you brighten the room?,Increase the brightness in the room.,0
+Turn on the Lights,Can you brighten the room?,Illuminate the house.,0
+Turn on the Lights,Can you brighten the room?,Turn on the study room lights.,0
+Turn on the Lights,Can you brighten the room?,Switch on the night light.,1
+Turn on the Lights,Can you brighten the room?,Enable the wall lamps.,1
+Turn on the Lights,Can you brighten the room?,Make the space well-lit.,0
+Turn on the Lights,Can you brighten the room?,Turn on the chandelier.,1
+Turn on the Lights,Can you brighten the room?,Activate the smart bulbs.,1
+Turn on the Lights,Can you brighten the room?,Switch on the garden lights.,0
+Turn on the Lights,Can you brighten the room?,Turn on all indoor lights.,0
+Turn on the Lights,Activate the lights here.,Power on the lights.,0
+Turn on the Lights,Activate the lights here.,Make the room brighter.,0
+Turn on the Lights,Activate the lights here.,Turn up the lights.,1
+Turn on the Lights,Activate the lights here.,Turn on the bedroom lights.,0
+Turn on the Lights,Activate the lights here.,Can you light up the space?,0
+Turn on the Lights,Activate the lights here.,Enable the lighting in the house.,0
+Turn on the Lights,Activate the lights here.,Turn on the hallway light.,1
+Turn on the Lights,Activate the lights here.,Switch on the LED lights.,0
+Turn on the Lights,Activate the lights here.,Light up the kitchen area.,0
+Turn on the Lights,Activate the lights here.,Turn on the lamp.,0
+Turn on the Lights,Activate the lights here.,Can you activate the living room lights?,1
+Turn on the Lights,Activate the lights here.,Increase the brightness in the room.,0
+Turn on the Lights,Activate the lights here.,Illuminate the house.,0
+Turn on the Lights,Activate the lights here.,Turn on the study room lights.,0
+Turn on the Lights,Activate the lights here.,Switch on the night light.,1
+Turn on the Lights,Activate the lights here.,Enable the wall lamps.,0
+Turn on the Lights,Activate the lights here.,Make the space well-lit.,0
+Turn on the Lights,Activate the lights here.,Turn on the chandelier.,0
+Turn on the Lights,Activate the lights here.,Activate the smart bulbs.,0
+Turn on the Lights,Activate the lights here.,Switch on the garden lights.,0
+Turn on the Lights,Activate the lights here.,Turn on all indoor lights.,1
+Turn on the Lights,Power on the lights.,Make the room brighter.,0
+Turn on the Lights,Power on the lights.,Turn up the lights.,1
+Turn on the Lights,Power on the lights.,Turn on the bedroom lights.,0
+Turn on the Lights,Power on the lights.,Can you light up the space?,0
+Turn on the Lights,Power on the lights.,Enable the lighting in the house.,1
+Turn on the Lights,Power on the lights.,Turn on the hallway light.,1
+Turn on the Lights,Power on the lights.,Switch on the LED lights.,1
+Turn on the Lights,Power on the lights.,Light up the kitchen area.,0
+Turn on the Lights,Power on the lights.,Turn on the lamp.,0
+Turn on the Lights,Power on the lights.,Can you activate the living room lights?,1
+Turn on the Lights,Power on the lights.,Increase the brightness in the room.,0
+Turn on the Lights,Power on the lights.,Illuminate the house.,1
+Turn on the Lights,Power on the lights.,Turn on the study room lights.,1
+Turn on the Lights,Power on the lights.,Switch on the night light.,0
+Turn on the Lights,Power on the lights.,Enable the wall lamps.,1
+Turn on the Lights,Power on the lights.,Make the space well-lit.,1
+Turn on the Lights,Power on the lights.,Turn on the chandelier.,0
+Turn on the Lights,Power on the lights.,Activate the smart bulbs.,1
+Turn on the Lights,Power on the lights.,Switch on the garden lights.,0
+Turn on the Lights,Power on the lights.,Turn on all indoor lights.,0
+Turn on the Lights,Make the room brighter.,Turn up the lights.,1
+Turn on the Lights,Make the room brighter.,Turn on the bedroom lights.,0
+Turn on the Lights,Make the room brighter.,Can you light up the space?,0
+Turn on the Lights,Make the room brighter.,Enable the lighting in the house.,0
+Turn on the Lights,Make the room brighter.,Turn on the hallway light.,0
+Turn on the Lights,Make the room brighter.,Switch on the LED lights.,0
+Turn on the Lights,Make the room brighter.,Light up the kitchen area.,1
+Turn on the Lights,Make the room brighter.,Turn on the lamp.,1
+Turn on the Lights,Make the room brighter.,Can you activate the living room lights?,0
+Turn on the Lights,Make the room brighter.,Increase the brightness in the room.,1
+Turn on the Lights,Make the room brighter.,Illuminate the house.,0
+Turn on the Lights,Make the room brighter.,Turn on the study room lights.,0
+Turn on the Lights,Make the room brighter.,Switch on the night light.,1
+Turn on the Lights,Make the room brighter.,Enable the wall lamps.,0
+Turn on the Lights,Make the room brighter.,Make the space well-lit.,1
+Turn on the Lights,Make the room brighter.,Turn on the chandelier.,0
+Turn on the Lights,Make the room brighter.,Activate the smart bulbs.,0
+Turn on the Lights,Make the room brighter.,Switch on the garden lights.,1
+Turn on the Lights,Make the room brighter.,Turn on all indoor lights.,0
+Turn on the Lights,Turn up the lights.,Turn on the bedroom lights.,1
+Turn on the Lights,Turn up the lights.,Can you light up the space?,1
+Turn on the Lights,Turn up the lights.,Enable the lighting in the house.,1
+Turn on the Lights,Turn up the lights.,Turn on the hallway light.,0
+Turn on the Lights,Turn up the lights.,Switch on the LED lights.,0
+Turn on the Lights,Turn up the lights.,Light up the kitchen area.,0
+Turn on the Lights,Turn up the lights.,Turn on the lamp.,1
+Turn on the Lights,Turn up the lights.,Can you activate the living room lights?,1
+Turn on the Lights,Turn up the lights.,Increase the brightness in the room.,0
+Turn on the Lights,Turn up the lights.,Illuminate the house.,1
+Turn on the Lights,Turn up the lights.,Turn on the study room lights.,1
+Turn on the Lights,Turn up the lights.,Switch on the night light.,1
+Turn on the Lights,Turn up the lights.,Enable the wall lamps.,0
+Turn on the Lights,Turn up the lights.,Make the space well-lit.,1
+Turn on the Lights,Turn up the lights.,Turn on the chandelier.,0
+Turn on the Lights,Turn up the lights.,Activate the smart bulbs.,0
+Turn on the Lights,Turn up the lights.,Switch on the garden lights.,1
+Turn on the Lights,Turn up the lights.,Turn on all indoor lights.,0
+Turn on the Lights,Turn on the bedroom lights.,Can you light up the space?,0
+Turn on the Lights,Turn on the bedroom lights.,Enable the lighting in the house.,0
+Turn on the Lights,Turn on the bedroom lights.,Turn on the hallway light.,1
+Turn on the Lights,Turn on the bedroom lights.,Switch on the LED lights.,0
+Turn on the Lights,Turn on the bedroom lights.,Light up the kitchen area.,0
+Turn on the Lights,Turn on the bedroom lights.,Turn on the lamp.,1
+Turn on the Lights,Turn on the bedroom lights.,Can you activate the living room lights?,0
+Turn on the Lights,Turn on the bedroom lights.,Increase the brightness in the room.,0
+Turn on the Lights,Turn on the bedroom lights.,Illuminate the house.,0
+Turn on the Lights,Turn on the bedroom lights.,Turn on the study room lights.,1
+Turn on the Lights,Turn on the bedroom lights.,Switch on the night light.,1
+Turn on the Lights,Turn on the bedroom lights.,Enable the wall lamps.,0
+Turn on the Lights,Turn on the bedroom lights.,Make the space well-lit.,0
+Turn on the Lights,Turn on the bedroom lights.,Turn on the chandelier.,1
+Turn on the Lights,Turn on the bedroom lights.,Activate the smart bulbs.,1
+Turn on the Lights,Turn on the bedroom lights.,Switch on the garden lights.,0
+Turn on the Lights,Turn on the bedroom lights.,Turn on all indoor lights.,0
+Turn on the Lights,Can you light up the space?,Enable the lighting in the house.,1
+Turn on the Lights,Can you light up the space?,Turn on the hallway light.,1
+Turn on the Lights,Can you light up the space?,Switch on the LED lights.,1
+Turn on the Lights,Can you light up the space?,Light up the kitchen area.,1
+Turn on the Lights,Can you light up the space?,Turn on the lamp.,1
+Turn on the Lights,Can you light up the space?,Can you activate the living room lights?,0
+Turn on the Lights,Can you light up the space?,Increase the brightness in the room.,0
+Turn on the Lights,Can you light up the space?,Illuminate the house.,0
+Turn on the Lights,Can you light up the space?,Turn on the study room lights.,1
+Turn on the Lights,Can you light up the space?,Switch on the night light.,1
+Turn on the Lights,Can you light up the space?,Enable the wall lamps.,1
+Turn on the Lights,Can you light up the space?,Make the space well-lit.,0
+Turn on the Lights,Can you light up the space?,Turn on the chandelier.,0
+Turn on the Lights,Can you light up the space?,Activate the smart bulbs.,0
+Turn on the Lights,Can you light up the space?,Switch on the garden lights.,1
+Turn on the Lights,Can you light up the space?,Turn on all indoor lights.,0
+Turn on the Lights,Enable the lighting in the house.,Turn on the hallway light.,1
+Turn on the Lights,Enable the lighting in the house.,Switch on the LED lights.,1
+Turn on the Lights,Enable the lighting in the house.,Light up the kitchen area.,1
+Turn on the Lights,Enable the lighting in the house.,Turn on the lamp.,0
+Turn on the Lights,Enable the lighting in the house.,Can you activate the living room lights?,0
+Turn on the Lights,Enable the lighting in the house.,Increase the brightness in the room.,1
+Turn on the Lights,Enable the lighting in the house.,Illuminate the house.,1
+Turn on the Lights,Enable the lighting in the house.,Turn on the study room lights.,0
+Turn on the Lights,Enable the lighting in the house.,Switch on the night light.,1
+Turn on the Lights,Enable the lighting in the house.,Enable the wall lamps.,1
+Turn on the Lights,Enable the lighting in the house.,Make the space well-lit.,0
+Turn on the Lights,Enable the lighting in the house.,Turn on the chandelier.,1
+Turn on the Lights,Enable the lighting in the house.,Activate the smart bulbs.,1
+Turn on the Lights,Enable the lighting in the house.,Switch on the garden lights.,0
+Turn on the Lights,Enable the lighting in the house.,Turn on all indoor lights.,1
+Turn on the Lights,Turn on the hallway light.,Switch on the LED lights.,0
+Turn on the Lights,Turn on the hallway light.,Light up the kitchen area.,1
+Turn on the Lights,Turn on the hallway light.,Turn on the lamp.,0
+Turn on the Lights,Turn on the hallway light.,Can you activate the living room lights?,0
+Turn on the Lights,Turn on the hallway light.,Increase the brightness in the room.,0
+Turn on the Lights,Turn on the hallway light.,Illuminate the house.,0
+Turn on the Lights,Turn on the hallway light.,Turn on the study room lights.,0
+Turn on the Lights,Turn on the hallway light.,Switch on the night light.,1
+Turn on the Lights,Turn on the hallway light.,Enable the wall lamps.,1
+Turn on the Lights,Turn on the hallway light.,Make the space well-lit.,1
+Turn on the Lights,Turn on the hallway light.,Turn on the chandelier.,1
+Turn on the Lights,Turn on the hallway light.,Activate the smart bulbs.,1
+Turn on the Lights,Turn on the hallway light.,Switch on the garden lights.,1
+Turn on the Lights,Turn on the hallway light.,Turn on all indoor lights.,1
+Turn on the Lights,Switch on the LED lights.,Light up the kitchen area.,1
+Turn on the Lights,Switch on the LED lights.,Turn on the lamp.,1
+Turn on the Lights,Switch on the LED lights.,Can you activate the living room lights?,1
+Turn on the Lights,Switch on the LED lights.,Increase the brightness in the room.,1
+Turn on the Lights,Switch on the LED lights.,Illuminate the house.,1
+Turn on the Lights,Switch on the LED lights.,Turn on the study room lights.,0
+Turn on the Lights,Switch on the LED lights.,Switch on the night light.,0
+Turn on the Lights,Switch on the LED lights.,Enable the wall lamps.,0
+Turn on the Lights,Switch on the LED lights.,Make the space well-lit.,0
+Turn on the Lights,Switch on the LED lights.,Turn on the chandelier.,0
+Turn on the Lights,Switch on the LED lights.,Activate the smart bulbs.,1
+Turn on the Lights,Switch on the LED lights.,Switch on the garden lights.,1
+Turn on the Lights,Switch on the LED lights.,Turn on all indoor lights.,0
+Turn on the Lights,Light up the kitchen area.,Turn on the lamp.,1
+Turn on the Lights,Light up the kitchen area.,Can you activate the living room lights?,0
+Turn on the Lights,Light up the kitchen area.,Increase the brightness in the room.,0
+Turn on the Lights,Light up the kitchen area.,Illuminate the house.,1
+Turn on the Lights,Light up the kitchen area.,Turn on the study room lights.,0
+Turn on the Lights,Light up the kitchen area.,Switch on the night light.,0
+Turn on the Lights,Light up the kitchen area.,Enable the wall lamps.,1
+Turn on the Lights,Light up the kitchen area.,Make the space well-lit.,1
+Turn on the Lights,Light up the kitchen area.,Turn on the chandelier.,1
+Turn on the Lights,Light up the kitchen area.,Activate the smart bulbs.,0
+Turn on the Lights,Light up the kitchen area.,Switch on the garden lights.,1
+Turn on the Lights,Light up the kitchen area.,Turn on all indoor lights.,1
+Turn on the Lights,Turn on the lamp.,Can you activate the living room lights?,1
+Turn on the Lights,Turn on the lamp.,Increase the brightness in the room.,0
+Turn on the Lights,Turn on the lamp.,Illuminate the house.,0
+Turn on the Lights,Turn on the lamp.,Turn on the study room lights.,0
+Turn on the Lights,Turn on the lamp.,Switch on the night light.,1
+Turn on the Lights,Turn on the lamp.,Enable the wall lamps.,1
+Turn on the Lights,Turn on the lamp.,Make the space well-lit.,1
+Turn on the Lights,Turn on the lamp.,Turn on the chandelier.,1
+Turn on the Lights,Turn on the lamp.,Activate the smart bulbs.,0
+Turn on the Lights,Turn on the lamp.,Switch on the garden lights.,1
+Turn on the Lights,Turn on the lamp.,Turn on all indoor lights.,1
+Turn on the Lights,Can you activate the living room lights?,Increase the brightness in the room.,1
+Turn on the Lights,Can you activate the living room lights?,Illuminate the house.,0
+Turn on the Lights,Can you activate the living room lights?,Turn on the study room lights.,1
+Turn on the Lights,Can you activate the living room lights?,Switch on the night light.,1
+Turn on the Lights,Can you activate the living room lights?,Enable the wall lamps.,0
+Turn on the Lights,Can you activate the living room lights?,Make the space well-lit.,1
+Turn on the Lights,Can you activate the living room lights?,Turn on the chandelier.,0
+Turn on the Lights,Can you activate the living room lights?,Activate the smart bulbs.,0
+Turn on the Lights,Can you activate the living room lights?,Switch on the garden lights.,1
+Turn on the Lights,Can you activate the living room lights?,Turn on all indoor lights.,0
+Turn on the Lights,Increase the brightness in the room.,Illuminate the house.,0
+Turn on the Lights,Increase the brightness in the room.,Turn on the study room lights.,1
+Turn on the Lights,Increase the brightness in the room.,Switch on the night light.,1
+Turn on the Lights,Increase the brightness in the room.,Enable the wall lamps.,0
+Turn on the Lights,Increase the brightness in the room.,Make the space well-lit.,0
+Turn on the Lights,Increase the brightness in the room.,Turn on the chandelier.,0
+Turn on the Lights,Increase the brightness in the room.,Activate the smart bulbs.,1
+Turn on the Lights,Increase the brightness in the room.,Switch on the garden lights.,0
+Turn on the Lights,Increase the brightness in the room.,Turn on all indoor lights.,1
+Turn on the Lights,Illuminate the house.,Turn on the study room lights.,0
+Turn on the Lights,Illuminate the house.,Switch on the night light.,1
+Turn on the Lights,Illuminate the house.,Enable the wall lamps.,0
+Turn on the Lights,Illuminate the house.,Make the space well-lit.,0
+Turn on the Lights,Illuminate the house.,Turn on the chandelier.,0
+Turn on the Lights,Illuminate the house.,Activate the smart bulbs.,1
+Turn on the Lights,Illuminate the house.,Switch on the garden lights.,1
+Turn on the Lights,Illuminate the house.,Turn on all indoor lights.,1
+Turn on the Lights,Turn on the study room lights.,Switch on the night light.,1
+Turn on the Lights,Turn on the study room lights.,Enable the wall lamps.,0
+Turn on the Lights,Turn on the study room lights.,Make the space well-lit.,0
+Turn on the Lights,Turn on the study room lights.,Turn on the chandelier.,0
+Turn on the Lights,Turn on the study room lights.,Activate the smart bulbs.,0
+Turn on the Lights,Turn on the study room lights.,Switch on the garden lights.,0
+Turn on the Lights,Turn on the study room lights.,Turn on all indoor lights.,0
+Turn on the Lights,Switch on the night light.,Enable the wall lamps.,0
+Turn on the Lights,Switch on the night light.,Make the space well-lit.,0
+Turn on the Lights,Switch on the night light.,Turn on the chandelier.,0
+Turn on the Lights,Switch on the night light.,Activate the smart bulbs.,1
+Turn on the Lights,Switch on the night light.,Switch on the garden lights.,1
+Turn on the Lights,Switch on the night light.,Turn on all indoor lights.,1
+Turn on the Lights,Enable the wall lamps.,Make the space well-lit.,0
+Turn on the Lights,Enable the wall lamps.,Turn on the chandelier.,1
+Turn on the Lights,Enable the wall lamps.,Activate the smart bulbs.,0
+Turn on the Lights,Enable the wall lamps.,Switch on the garden lights.,1
+Turn on the Lights,Enable the wall lamps.,Turn on all indoor lights.,1
+Turn on the Lights,Make the space well-lit.,Turn on the chandelier.,0
+Turn on the Lights,Make the space well-lit.,Activate the smart bulbs.,1
+Turn on the Lights,Make the space well-lit.,Switch on the garden lights.,0
+Turn on the Lights,Make the space well-lit.,Turn on all indoor lights.,0
+Turn on the Lights,Turn on the chandelier.,Activate the smart bulbs.,1
+Turn on the Lights,Turn on the chandelier.,Switch on the garden lights.,0
+Turn on the Lights,Turn on the chandelier.,Turn on all indoor lights.,1
+Turn on the Lights,Activate the smart bulbs.,Switch on the garden lights.,0
+Turn on the Lights,Activate the smart bulbs.,Turn on all indoor lights.,0
+Turn on the Lights,Switch on the garden lights.,Turn on all indoor lights.,1
